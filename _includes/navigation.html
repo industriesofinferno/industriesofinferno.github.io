@@ -1,0 +1,11 @@
+<nav>
+    <ul class="flex justify-center">
+        {% for item in site.data.navigation %}
+            <li class="mr-6 linlin">
+                <a href="{{ item.link }}" class=" text-gray-100 navbarfont uppercase hover:text-gray-500 text-2xl" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+                <div class="bar"></div>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>
+
