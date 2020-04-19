@@ -1,16 +1,28 @@
 ---
 layout: default
 ---
-<div class="container max-w-none min-h-screen overflow-hidden bg-fixed" style="background-image:url(/assets/images/blswthatt.jpg)">
-  <h1 class="mt-64 text-5xl">{{ page.title }}</h1>
+
+
+<div class="container relative max-w-none featureimg overflow-hidden">
+    {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
+ <!-- <h1 class="absolute bottom-0 mb-8 ml-24 text-5xl fondu">{{ page.title }}</h1>-->
 </div>
 
-<p>
-    {{ page.date | date_to_string }}
-    {% assign author = site.authors | where: 'short_name', page.author | first %}
-    {% if author %}
-      - <a href="{{ author.url }}">{{ author.name }}</a>
-    {% endif %}
-</p>
 
-{{ content }}
+<div class="mt-8 border-double border-green-400 bg-gray-900 border-8 p-6 rounded marginalia1">
+  <h1 class="text-2xl text-center font-bold mb-4">{{ page.title }}</h1>
+  <div class="indentia text-justify">
+      {{ content }}
+    <p class="text-right">
+      
+      {{ page.date | date_to_string }}<br>
+      Category: {{ page.categories | capitalize}}<br>
+      Tags: {{ page.tags | capitalize}}<br>
+      {% assign author = site.authors | where: 'short_name', page.author | first %}
+      {% if author %}
+        - by <a href="{{ author.url }}">{{ author.name }}</a>
+      {% endif %}
+    </p>
+  </div>
+ 
+</div>
