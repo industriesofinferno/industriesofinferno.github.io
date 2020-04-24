@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: aboutstyle
 title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+Realms of the Black Wizards.

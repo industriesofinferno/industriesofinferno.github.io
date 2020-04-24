@@ -1,10 +1,11 @@
 ---
 layout: post
+real-post-title: The old knowledge & other strange tales - Rosalie Parker (Tartarus Press, 2011)
 featured-image: theoldknowledge1.jpg
 featured-image-alt: testofme
 categories: [books, reviews]
 tags:  [horror, rosalie parker, the old knowledge, 2011]
-author: athotep
+author: Athotep
 ---
 Rosalie Parker‘s first book follows in the English tradition of subtle weird fiction, Robert Aickman and Arthur Machen being obvious influences. Graced with modern and elegant language, this small collection of short stories evokes an intimate, tranquil and homey atmosphere, its rustic coziness embedded in both fluid unburdened writing and liminal contemporary setting. Concerning the latter, the book’s eight stories take place on the fringes of our world – villages, suburbs, the countryside – and dispense with the frantic rhythms of modern life which exists only as a distant echo.
 
