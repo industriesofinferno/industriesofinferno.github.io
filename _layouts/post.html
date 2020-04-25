@@ -6,21 +6,29 @@ layout: default
 <div class="bg-fixed max-w-none min-h-screen featureimg bg-cover" {% if page.featured-image %} style="background-image: url(/assets/images/{{ page.featured-image }})"{% endif %}>
 </div>
 
-
-<div class="mt-8 border-solid border-gray-400 border-2 p-6 m-64">
-  <h1 class="text-2xl text-center font-bold mb-4">{{ page.real-post-title }}</h1>
-  <div class="indentia text-justify">
-      {{ content }}
-    <p class="text-right">
-      
-      {{ page.date | date_to_string }}<br>
-      Category: {{ page.categories | capitalize}}<br>
-      Tags: {{ page.tags | capitalize}}<br>
-      {% assign author = site.authors | where: 'short_name', page.author | first %}
-      {% if author %}
-        - by <a href="{{ author.url }}">{{ author.name }}</a>
-      {% endif %}
-    </p>
+<div class="flex justify-center">
+  <div class="mt-8 p-6 w-2/4 bg-white text-black">
+    <h1 class="text-2xl text-center font-bold mb-4">{{ page.real-post-title }}</h1>
+    <div class="flex justify-center">
+          <div class="border-solid border-black border-t h-1 w-2/5 mb-4 self-center"></div>
+    </div>
+    <div class="indentia text-justify">
+        {{ content }}
+      <p class="text-right">
+        
+        {{ page.date | date_to_string }}<br>
+        Category: {{ page.categories | capitalize}}<br>
+        Tags: {{ page.tags | capitalize}}<br>
+        {% assign author = site.authors | where: 'short_name', page.author | first %}
+        {% if author %}
+          - by <a href="{{ author.url }}">{{ author.name }}</a>
+        {% endif %}
+      </p>
+    </div>
+   
   </div>
- 
+  
+</div>
+<div class="container max-w-none">
+  {% include navigationlight.html %}
 </div>
