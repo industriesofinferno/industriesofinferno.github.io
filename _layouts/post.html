@@ -29,6 +29,16 @@ layout: default
   </div>
   
 </div>
+
+<div>
+  {% if page.previous.url %}
+    <a href="{{page.previous.url}}">&laquo; {{page.previous.real-post-title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a href="{{page.next.url}}">{{page.next.real-post-title}} &raquo;</a>
+  {% endif %}
+</div>
+
 <div class="container max-w-none">
   {% include navigationlight.html %}
 </div>
