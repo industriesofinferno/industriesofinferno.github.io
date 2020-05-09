@@ -15,8 +15,14 @@ defaults:
       layout: "post"
   - scope:
       path: ""
+      type: "categories"
+    values:
+      layout: "categoriesstyle"
+  - scope:
+      path: ""
     values:
       layout: "default"   
+  
 
 plugins:
   - jekyll-feed
@@ -24,3 +30,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-postcss
   - jekyll-purgecss
+  - jekyll-archives
+
+include: [categories]  
+
+relative_permalinks: false

@@ -5,17 +5,19 @@
   "main": "index.js",
   "dependencies": {
     "browserify-postcss": "^0.4.0",
-    "postcss": "^7.0.27"
+    "postcss": "^7.0.27",
+    "tailwindcss": "^1.4.6",
+    "watch": "^1.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^9.7.6",
     "postcss-cli": "^7.1.0",
     "postcss-import": "^12.0.1",
-    "purgecss": "^2.1.2",
-    "tailwindcss": "^1.2.0"
+    "purgecss": "^2.1.2"
   },
   "scripts": {
-    "build:css": "tailwind build assets/css/sorc.css -o assets/css/exodia.css"
+    "build:css": "postcss assets/css/sorc.css -o assets/css/exodia.css",
+    "watch": "watch 'npm run build:css' ./layouts"
   },
   "repository": {
     "type": "git",

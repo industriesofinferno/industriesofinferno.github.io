@@ -15,32 +15,6 @@
   min-height: 80vh;
 }
 
-.linlin {
-    display: inline-block;
-    padding: 15px 0;
-    position: relative;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #0f0f0f;
-    font-weight: 300;
-    font-size: 24px;
-  }
-  .linlin .bar {
-    width: 100%;
-    display: inline-block;
-    border-bottom: 1px solid gray;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    opacity: 0;
-    transition: all 300ms;
-  }
-  
-  .linlin:hover .bar {
-    opacity: 1;
-    bottom: 10px;
-  }
-
   .marginalia1{
     margin-right: 10rem;
     margin-left: 10rem;
@@ -59,4 +33,8 @@
        1px -1px 0 #000,
       -1px  1px 0 #000,
        1px  1px 0 #000;
+  }
+
+  .dropmedown:hover .dropdown-menu{
+    display: block;
   }

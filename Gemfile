@@ -11,6 +11,7 @@ group :jekyll_plugins do
     gem "jekyll-postcss"
     gem "jekyll-purgecss"
     gem 'github-pages-unscramble'
+    gem 'jekyll-archives'
     /gem "jekyll-minimagick"/
     /gem "jekyll-assets"/
 end

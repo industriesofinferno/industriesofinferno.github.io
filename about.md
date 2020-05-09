@@ -2,6 +2,6 @@
 layout: aboutstyle
 title: About
 ---
-# About page
 
-Realms of the Black Wizards.
+The blog dabbles into all things uncanny, with an emphasis on art. Reviews of music albums, books, movies and video games; musings on folklore, mythology and the occult; as well as short stories. 
+Most of the material is in English, with some (especially short stories) texts being in Greek.
