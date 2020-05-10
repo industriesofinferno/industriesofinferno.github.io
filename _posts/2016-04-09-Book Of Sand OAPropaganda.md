@@ -3,7 +3,7 @@ layout: post
 real-post-title: Book Of Sand – Occult Anarchist Propaganda (Mouthbreather Records, 2016)
 featured-image: bookofsand.jpg
 featured-image-alt: testofme
-categories: [music, reviews]
+categories: [music]
 tags:  [black metal, USA, 2016]
 author: Athotep
 ---

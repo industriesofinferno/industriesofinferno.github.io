@@ -3,7 +3,7 @@ layout: post
 real-post-title: Malokarpatan – Krupinské Ohne (Invictus, 2020)
 featured-image: malokarpatan.jpg
 featured-image-alt: testofme
-categories: [music, reviews]
+categories: [music]
 tags:  [black metal, slovakia, 2020]
 author: Athotep
 ---

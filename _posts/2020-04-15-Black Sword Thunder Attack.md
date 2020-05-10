@@ -3,7 +3,7 @@ layout: post
 real-post-title: Black Sword Thunder Attack – March of the Damned (No Remorse, 2020)
 featured-image: blswthatt.jpg
 featured-image-alt: testofme
-categories: [music, reviews]
+categories: [music]
 tags:  [epic metal, black sword thunder attack, no remorse, 2020]
 author: athotep
 ---

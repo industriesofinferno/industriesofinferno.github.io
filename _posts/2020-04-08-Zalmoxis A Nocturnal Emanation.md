@@ -3,7 +3,7 @@ layout: post
 real-post-title: Zalmoxis – A Nocturnal Emanation (Signal Rex, 2020)
 featured-image: zalmoxis.jpg
 featured-image-alt: testofme
-categories: [music, reviews]
+categories: [music]
 tags:  [black metal, germany, 2020]
 author: Athotep
 ---
