@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default1
 title: "Industries of Inferno"
 ---
 <!doctype html>
@@ -8,21 +8,30 @@ title: "Industries of Inferno"
     <meta charset="utf-8">
     <title>Home</title>
   </head>
-  <body class="bg-black text-white headingfont">
-    <div class="flex justify-center mt-32 mb-8">
-      <div class="rounded-full border-solid border-gray-400 border h-32 w-32 flex items-center bg-gray-100 overflow-hidden self-center justify-center 
-      transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-        <img class="object-cover" src="assets/images/red_death.jpg">
+  {% include navtest1.html %}
+  <div class="flex flex-col bg-black text-white h-screen">
+    
+    <div class="flex-grow">
+      <div class="flex justify-center mt-32 mb-8">
+        <div class="rounded-full border-solid border-gray-400 border h-32 w-32 flex items-center bg-gray-100 overflow-hidden self-center justify-center 
+        transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+          <img class="object-cover" src="assets/images/red_death.jpg">
+        </div>
+      </div>
+      
+      <h1 class="container headingfont text-4xl font-light max-w-none text-center text-gray-100">{{ page.title | upcase }}</h1>
+      <h3 class="container headingfont text-2xl font-light max-w-none text-center text-gray-100">Uncanny musings</h3>
+      
+      <div class="flex flex-wrap overflow-hidden p-6 text-black">
+        {% for post in site.posts limit:4 %}
+            <div class=" w-1/4" >
+              <a href="{{ post.url }}">
+                <div class="m-1 p-2 h-64 bg-cover bg-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                </div>
+            </div>
+          {% endfor %}
       </div>
     </div>
-    <h1 class="container headingfont text-4xl font-light max-w-none text-center text-gray-100">{{ page.title | upcase}}</h1>
-    <h3 class="container headingfont text-2xl font-light max-w-none text-center text-gray-100">Uncanny musings</h3>
-    <div class="container max-w-none">
-      {% include navtest1.html %}
-    </div>
-    <div>
-      
-    </div>
-  </body>
+  </div>
 </html>
 

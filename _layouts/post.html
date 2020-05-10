@@ -2,8 +2,8 @@
 layout: default
 ---
 
-
-<div class="bg-fixed max-w-none min-h-screen featureimg bg-cover" {% if page.featured-image %} style="background-image: url(/assets/images/{{ page.featured-image }})"{% endif %}>
+  {% include navigationlight.html %}
+<div class="bg-fixed max-w-none min-h-screen featureimg pt-16 bg-cover" {% if page.featured-image %} style="background-image: url(/assets/images/{{ page.featured-image }})"{% endif %}>
 </div>
 
 <div class="flex justify-center">
@@ -14,9 +14,9 @@ layout: default
         {% assign categories = post.categories %}
       {% else %}
         {% assign categories = page.categories %}
-      {% endif %} Categories:
+      {% endif %} <h3 class="">Category:
       {% for category in categories %}
-      <a class="hover:text-blue-400" href="{{site.baseurl}}/categories/{{category|slugize}}">{{category}}</a>
+      <a class="hover:text-blue-400" href="{{site.baseurl}}/categories/{{category|slugize}}">{{category}}</a></h3> 
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}<br>
     </div>
@@ -30,15 +30,13 @@ layout: default
         
         {{ page.date | date_to_string }}<br>
 
-        
-
         {% if post %}
           {% assign tags = post.tags %}
         {% else %}
           {% assign tags = page.tags %}
         {% endif %} Tags:
         {% for tag in tags %}
-        <a href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
+        <a class="italic" href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}<br>
       </p>
@@ -62,6 +60,4 @@ layout: default
 </div>
 
 
-<div class="container max-w-none">
-  {% include navigationlight.html %}
-</div>
+

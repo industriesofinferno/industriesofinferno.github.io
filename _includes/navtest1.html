@@ -1,5 +1,6 @@
-<nav>
-    <ul class="flex justify-center">
+<div class="fixed top-0 w-full z-10 bg-black">
+  <nav>
+    <ul class="flex justify-center sticky">
         {% for item in site.data.navigation %}
           <li class="group mr-6 inline-block dropmedown relative py-3">
             <a href="{{ item.link }}" class="text-white navbarfont uppercase hover:text-gray-500 text-2xl"><h3>{{ item.name }}</h3></a>
@@ -21,5 +22,5 @@
           </li>
         {% endfor %}
     </ul>
-
-</nav>
+  </nav>
+</div>

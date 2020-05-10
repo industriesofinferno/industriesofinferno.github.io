@@ -1,12 +1,8 @@
 ---
 layout: default
 ---
-
-<body class="bg-black">
-    
-    <h1 class="text-3xl text-white pl-6 navbarfont uppercase">Latest Posts</h1>
+{% include navtest1.html %}
+<div class="bg-white pt-16">
+    <h1 class="text-3xl text-black pl-6 navbarfont uppercase">Latest Posts</h1>
     {{ content }}
-    <div class="container max-w-none">
-        {% include navtest1.html %}
-      </div>
-  </body>
+</div>
