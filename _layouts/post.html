@@ -7,19 +7,20 @@ layout: default
 </div>
 
 <div class="flex justify-center">
-  <div class="mt-8 p-6 w-2/4 bg-white text-black">
-    <h1 class="text-2xl text-center font-bold mb-4">{{ page.real-post-title }}</h1>
-    <div class="text-center text-lg font-bold">
+  <div class="mt-4 p-6 w-2/4 bg-white text-black">
+    <div class="text-2xl font-bold inline-block bg-black text-white px-1">
       {% if post %}
         {% assign categories = post.categories %}
       {% else %}
         {% assign categories = page.categories %}
-      {% endif %} <h3 class="">Category:
+      {% endif %} <h3 class="">
       {% for category in categories %}
-      <a class="hover:text-blue-400" href="{{site.baseurl}}/categories/{{category|slugize}}">{{category}}</a></h3> 
+      <a class="hover:text-blue-400" href="{{site.baseurl}}/categories/{{category|slugize}}">{{category | upcase}}</a></h3> 
       {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}<br>
+      {% endfor %}
     </div>
+    <h1 class="text-2xl text-center font-bold mb-4">{{ page.real-post-title }}</h1>
+  
     <div class="flex justify-center">
           <div class="border-solid border-black border-t h-1 w-2/5 mb-4 self-center"></div>
     </div>
@@ -54,7 +55,7 @@ layout: default
       <a class="hover:text-teal-600 hover:underline" href="{{page.previous.url}}">Previous: {{page.previous.real-post-title}}</a><br>
     {% endif %}
     {% if page.next.url %}
-      <a class="hover:text-teal-600 hover:underline" href="{{page.next.url}}">Next: {{page.next.real-post-title}}</a>
+      <a class="float-right hover:text-teal-600 hover:underline" href="{{page.next.url}}">Next: {{page.next.real-post-title}}</a>
     {% endif %}
   </div>
 </div>

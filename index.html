@@ -23,7 +23,7 @@ title: "Industries of Inferno"
       <h1 class="container headingfont text-4xl font-light max-w-none text-center text-gray-100">{{ page.title | upcase }}</h1>
       <h3 id="deiktis1" class="container headingfont text-2xl font-light max-w-none text-center text-gray-100">Uncanny musings</h3>
       <div class="w-full text-center mt-24">
-        <button id="buttondown" class="rounded bg-transparent hover:bg-white text-white font-semibold hover:text-black py-2 px-4 border border-blue-500 hover:border-transparent rounded">
+        <button id="buttondown" class="rounded bg-transparent navbarfont rounded text-white font-semibold py-2 px-4 border uppercase heading border-white hover:border-transparent hover:bg-white hover:text-black ">
           Down
         </button>
       </div>
@@ -43,21 +43,24 @@ title: "Industries of Inferno"
       {% for post in site.posts limit:6 %}
           <div class=" w-1/3" >
             <a href="{{ post.url }}">
-              <div class="m-1 p-2 h-64 bg-cover bg-center transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+              <div class="m-1 p-2 h-64 bg-cover bg-center transition duration-500 ease-in-out transform hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                <div class="bg-black text-white text-left inline-block px-1">
+                  <h3>
+                    {% if post %}
+                    {% assign categories = post.categories %}
+                      {% else %}
+                    {% assign categories = page.categories %}
+                      {% endif %} 
+                    {% for category in categories %}
+                    {{ category | upcase }}
+                    {% unless forloop.last %}&nbsp;{% endunless %}
+                    {% endfor %}
+                  </h3> 
+                </div>
               </div>
+            </a>
               <div class="p-2">
-                <h2 class="text-xl hover:text-teal-700">{{ post.real-post-title }}</h2></a>
-
-                {% if post %}
-                  {% assign categories = post.categories %}
-                {% else %}
-                  {% assign categories = page.categories %}
-                {% endif %} <h3 class="">
-                {% for category in categories %}
-                <a class="hover:text-blue-400" href="{{site.baseurl}}/categories/{{category|slugize}}">{{ category | upcase }}</a></h3> 
-                {% unless forloop.last %}&nbsp;{% endunless %}
-                {% endfor %}
-
+                <h2 class="text-xl hover:text-teal-700"><a href="{{ post.url }}">{{ post.real-post-title }}</a></h2></a>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br>
                 <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
                 {{ post.excerpt | truncatewords: 40 }}
@@ -66,22 +69,33 @@ title: "Industries of Inferno"
         {% endfor %}
   </div>
 
-  <div class="w-full ">
-    <div class="w-full"><h2>CATEGORIES</h2><br></div>
-    <div class="flex flex-row">
+  <div class="w-full border-t-2 border-solid border-black">
+    <div class="w-full"><h2 class="text-3xl text-black pl-6 pt-12 navbarfont uppercase">CATEGORIES</h2><br></div>
+    <div class="flex flex-row p-6 navbarfont uppercase text-2xl">
       
-      <div class="w-1/4">
-        Music
-      </div>
-      <div class="w-1/4">
-        Books
-      </div>
-      <div class="w-1/4">
-        Short Stories
-      </div>
-      <div class="w-1/4">
-        Other
-      </div>
+      <a class="w-1/4" href="{{ site.baseurl }}/categories/Music">
+        <div >
+          Music
+        </div>
+      </a>
+      
+      <a class="w-1/4" href="{{ site.baseurl }}/categories/Books">
+        <div >
+          Fiction
+        </div>
+      </a>
+
+      <a class="w-1/4" href="{{ site.baseurl }}/categories/short-stories">
+        <div >
+          Short Stories
+        </div>
+      </a>
+      
+      <a class="w-1/4" href="{{ site.baseurl }}/categories/Music">
+        <div >
+          Other
+        </div>
+      </a>
     </div>
   </div>
   

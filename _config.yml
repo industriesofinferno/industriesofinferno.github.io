@@ -34,4 +34,8 @@ plugins:
 
 include: [categories]  
 
+title: Industries of Inferno
+description: Uncanny musings
+author: Athotep Nyarl
+
 relative_permalinks: false

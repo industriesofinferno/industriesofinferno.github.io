@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="alternate" type="application/atom+xml" title="Industries of Inferno" href="/feed.xml">
     <link rel="stylesheet" href="/assets/css/exodia.css"> 
     <link rel="stylesheet" href="/assets/css/styles.css">
     <script src="https://kit.fontawesome.com/4b98a9722b.js" crossorigin="anonymous"></script>
@@ -13,7 +14,9 @@
   <body>
         {{ content }}
     <div class="max-w-none bottom-0 w-full bg-black text-white text-center">
-      <a href="https://www.facebook.com/industriesofinferno/"><i class="fab fa-facebook"></i></a><br>
+      <a href="https://www.facebook.com/industriesofinferno/"><i class="fab fa-facebook"></i></a>
+      <a class="" href="/feed.xml" target="_blank">RSS</a>
+      <br>
       <a href="{{ site.baseurl }}">{{ site.time | date: '%Y' }} Industries of Inferno</a>
     </div>
   </body>
