@@ -4,13 +4,11 @@
   link: /about.html
 - name: Blog
   link: /blog.html
-- name: Categories
-  subfolderitems:
-    - name: Music
-      link: /categories/music.html
-    - name: Books
-      link: /categories/books.html
-    - name: Short Stories
-      link: /categories/short-stories.html
+- name: Music
+  link: /categories/music.html
+- name: Books
+  link: /categories/books.html
+- name: Short Stories
+  link: /categories/short-stories.html
 - name: Links
   link: /links.html

@@ -1,0 +1,6 @@
+I"}<body class="bg-black">
+    <div class="container max-w-none">
+        {% include navigationbar.html %}
+      </div>
+</body>
+:ET

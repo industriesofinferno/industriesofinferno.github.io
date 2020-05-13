@@ -37,7 +37,7 @@ layout: default
           {% assign tags = page.tags %}
         {% endif %} Tags:
         {% for tag in tags %}
-        <a class="italic" href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
+        <a class="italic hover:text-teal-600 hover:underline" href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}<br>
       </p>
