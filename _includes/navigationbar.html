@@ -1,4 +1,4 @@
-<div class="fixed top-0 w-full z-10 bg-black">
+<div class="fixed top-0 w-full z-10 bg-black border-b-2 border-white">
   <nav>
     <ul class="flex justify-center sticky">
         {% for item in site.data.navigation %}
@@ -23,7 +23,7 @@
         {% endfor %}
         <form class="text-black border uppercase heading border-black m-4" action="/search.html" method="get">
           <input class="" type="text" id="search-box" name="query">
-          <input class="rounded bg-black navbarfont text-white font-semibold py-2 px-4 border uppercase heading border-white hover:border-black hover:bg-white hover:text-black" type="submit" value="search">
+          <input class="rounded bg-black navbarfont text-white font-semibold py-1 px-2 border uppercase heading border-white hover:border-black hover:bg-white hover:text-black" type="submit" value="search">
         </form>
     </ul>
   </nav>

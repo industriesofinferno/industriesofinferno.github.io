@@ -1,13 +1,17 @@
 ---
-layout: search
+layout: default
+title: "Search Results"
 ---
-<form action="/search.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
 
-<ul id="search-results"></ul>
+<body class="flex flex-col bg-white text-black h-screen">
+  <div>
+    {% include navigationlight.html %}
+  </div>
+  
+  <ul class="flex-grow m-6 pt-16" id="search-results"></ul>
+
+
+</body>
 
 <script>
   window.store = {
@@ -24,3 +28,6 @@ layout: search
 </script>
 <script src="/assets/js/lunr.js"></script>
 <script src="/assets/js/search.js"></script>
+
+
+
