@@ -1,7 +1,7 @@
 ---
 layout: post
 real-post-title: Might & Magic X Legacy (Ή του beta testing το κάγκελο)
-featured-image: /videogames/mmxlegacy/mmxlegacy.jpg
+featured-image: /videogames/Vasilisa.jpg
 featured-image-alt: mmxlegacy cover
 categories: [video-games]
 tags:  [crpg, 2014]
