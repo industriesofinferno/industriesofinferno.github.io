@@ -3,12 +3,11 @@ layout: post
 real-post-title: Top 18 CRPG’s – part 2
 featured-image: elmore.jpg
 featured-image-alt: fellowship of the lance
-categories: [video-games]
+categories: [gaming]
 tags:  [crpg, lists]
+excerpt: Το δεύτερο μέρος του αφιερώματος στα αγαπημένα μου CRPGs
 author: Athotep
 ---
-
-Blah bla blah bla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blahbla blah
 
 **1. Planescape Torment(Black Isle Studios, 1999)**
 

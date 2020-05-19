@@ -3,8 +3,9 @@ layout: post
 real-post-title: Moebius - Empire Rising (Phoenix Online Studios, 2014) 
 featured-image: /videogames/moebius/moeb.png
 featured-image-alt: Moebius cover
-categories: [video-games]
+categories: [gaming]
 tags:  [adventure games, 2014]
+excerpt: Το στραβοπάτημα της Jane Jensen
 author: Athotep
 ---
 
