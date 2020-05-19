@@ -5,10 +5,11 @@ featured-image: baldr.jpg
 featured-image-alt: Death of Balder
 categories: [short-stories]
 tags:  [norse mythology, 2009]
+excerpt_separator: <!--more-->
 author: Athotep
 ---
 
-***The Death of Balder** is an unpublished short story of mine, written circa 2009, being a take on the well-known Norse myth. I translated it in English some 2 years ago.*  
+***The Death of Balder** is an unpublished short story of mine, written circa 2009, being a take on the well-known Norse myth. I translated it in English some 2 years ago.*  <!--more-->
 <br>
 Three shapes are gliding through the night, under the tower’s shadow marching. Subtle to the eye of the beholder, three shadows, like pilgrims of a forgotten darkness deity. Three women, standing still for a moment, drawing down the moon, off of its watchtower, that silver pulpit on the starlit sky. One of them shrouds it in a black sheet, the second one sews it inside with silver thread, the last one sprinkles it with golden mead, laying it in a dreamless sleep. Thence they plead the one eyed stars, with the power that is theirs from the dawn of time, to avert their gaze from the world for this night of all nights.
 

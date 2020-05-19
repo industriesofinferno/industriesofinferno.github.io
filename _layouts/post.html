@@ -37,7 +37,7 @@ layout: default
           {% assign tags = page.tags %}
         {% endif %} Tags:
         {% for tag in tags %}
-        <a class="italic hover:text-teal-600 hover:underline" href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
+        <a class="p-1 border border-black border-solid italic hover:text-teal-600 hover:underline" href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}<br>
       </p>
@@ -58,7 +58,11 @@ layout: default
       <a class="float-right hover:text-teal-600 hover:underline" href="{{page.next.url}}">Next: {{page.next.real-post-title}}</a>
     {% endif %}
   </div>
+  
+</div>
 
+<div class="w-2 p-2 inline">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank"><img src="https://4.bp.blogspot.com/-raFYZvIFUV0/UwNI2ek6i3I/AAAAAAAAGSA/zs-kwq0q58E/s1600/facebook.png" alt="Facebook" /></a>
 </div>
 
 <script src="https://utteranc.es/client.js"

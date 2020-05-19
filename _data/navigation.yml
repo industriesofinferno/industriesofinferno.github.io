@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
 - name: Blog
   link: /blog.html
 - name: Music
@@ -14,5 +12,7 @@
   link: /categories/video-games.html  
 - name: Short Stories
   link: /categories/short-stories.html
+- name: Misc
+  link: /categories/misc.html  
 - name: Links
   link: /links.html

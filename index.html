@@ -62,7 +62,7 @@ title: "Industries of Inferno"
               </div>
             </a>
               <div class="p-2">
-                <h2 class="text-xl hover:text-teal-700"><a href="{{ post.url }}">{{ post.real-post-title }}</a></h2></a>
+                <h2 class="text-xl hover:text-blue-400"><a href="{{ post.url }}">{{ post.real-post-title }}</a></h2></a>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br>
                 <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
                 {{ post.excerpt | truncatewords: 40 }}
@@ -73,31 +73,101 @@ title: "Industries of Inferno"
 
   <div class="w-full border-t-2 border-solid border-black">
     <div class="w-full"><h2 class="text-3xl text-black pl-6 pt-12 navbarfont uppercase">CATEGORIES</h2><br></div>
-    <div class="flex flex-row p-6 navbarfont uppercase text-2xl">
-      
-      <a class="w-1/4" href="{{ site.baseurl }}/categories/Music">
-        <div >
-          Music
-        </div>
-      </a>
-      
-      <a class="w-1/4" href="{{ site.baseurl }}/categories/Books">
-        <div >
-          Fiction
-        </div>
-      </a>
 
-      <a class="w-1/4" href="{{ site.baseurl }}/categories/short-stories">
-        <div >
-          Short Stories
-        </div>
-      </a>
+    <div class="flex flex-row p-6 navbarfont text-2xl">
       
-      <a class="w-1/4" href="{{ site.baseurl }}/categories/Music">
-        <div >
-          Other
+      <div class="w-1/4">
+        <span>
+          Music
+        </span>
+
+        <div class="flex flex-wrap overflow-hidden p-6 text-black">
+          {% for post in site.categories.music limit:3 offset:1 %}
+              <div class="w-full">                
+                <a href="{{ post.url }}" class="flex">
+                  <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 w-1/2" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                  </div>
+                  <div class="text-base w-1/2">
+                    <h2 class="hover:text-blue-400">{{ post.real-post-title }}</h2>
+                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
+                </div>
+                </a>
+              </div>
+            {% endfor %}
         </div>
-      </a>
+
+      </div>
+      
+      <div class="w-1/4">
+        <span>
+          Books
+        </span>
+
+        <div class="flex flex-wrap overflow-hidden p-6 text-black">
+          {% for post in site.categories.books limit:3 offset:1 %}
+              <div class="w-full">                
+                <a href="{{ post.url }}" class="flex">
+                  <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 w-1/2" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                  </div>
+                  <div class="text-base w-1/2">
+                    <h2 class=" hover:text-blue-400">{{ post.real-post-title }}</h2>
+                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
+                </div>
+                </a>
+              </div>
+            {% endfor %}
+        </div>
+
+      </div>
+
+      <div class="w-1/4">
+        <span>
+          Movies
+        </span>
+
+        <div class="flex flex-wrap overflow-hidden p-6 text-black">
+          {% for post in site.categories.movies limit:3 offset:1 %}
+              <div class="w-full">                
+                <a href="{{ post.url }}" class="flex">
+                  <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 w-1/2" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                  </div>
+                  <div class="text-base w-1/2">
+                    <h2 class=" hover:text-blue-400">{{ post.real-post-title }}</h2>
+                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
+                </div>
+                </a>
+              </div>
+            {% endfor %}
+        </div>
+
+      </div>
+      
+      <div class="w-1/4">
+        <span>
+          Video Games
+        </span>
+
+        <div class="flex flex-wrap overflow-hidden p-6 text-black">
+          {% for post in site.categories.video-games limit:3 offset:1 %}
+              <div class="w-full">                
+                <a href="{{ post.url }}" class="flex">
+                  <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 w-1/2" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                  </div>
+                  <div class="text-base w-1/2">
+                    <h2 class=" hover:text-blue-400">{{ post.real-post-title }}</h2>
+                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
+                </div>
+                </a>
+              </div>
+            {% endfor %}
+        </div>
+
+      </div>
+
     </div>
   </div>
   

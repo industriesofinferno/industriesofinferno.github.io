@@ -4,7 +4,7 @@ real-post-title: Θορυβώδη Απομεινάρια
 featured-image: SLNSW.jpg
 featured-image-alt: Νεκροταφείο Σίδνεϋ
 categories: [short-stories]
-tags:  [my stories, sydney, 2020]
+tags:  [sydney, 2020]
 author: Athotep
 ---
 

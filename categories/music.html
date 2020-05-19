@@ -13,7 +13,7 @@ title: Music Section
           <a href="{{ post.url }}">
             <div class="m-1 p-2 h-64 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
             </div>
-            <div>
+            <div class="hover:text-blue-400">
               <h2 class="text-xl">{{ post.real-post-title }}</h2>
               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br>
               <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
