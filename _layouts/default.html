@@ -13,18 +13,16 @@
   </head>
   <body>
         {{ content }}
-    <div class="max-w-none bottom-0 w-full bg-black text-white flex flex-row">
+    <div class="max-w-none bottom-0 w-full bg-black text-white flex flex-row p-6">
+      
       <div class="w-1/4">
-        <a href="https://www.facebook.com/industriesofinferno/"><i class="fab fa-facebook"></i></a>
+        <a class="navbarfont" href="/feed.xml" target="_blank">RSS</a>
       </div>
       <div class="w-1/4">
-        <a class="" href="/feed.xml" target="_blank">RSS</a>
+        <a class="navbarfont uppercase" href="{{ site.baseurl }}">Industries of Inferno, {{ site.time | date: '%Y' }} </a>
       </div>
       <div class="w-1/4">
-        <a href="{{ site.baseurl }}">{{ site.time | date: '%Y' }} Industries of Inferno</a>
-      </div>
-      <div class="w-1/4">
-        <a href="{{ site.baseurl }}/about.html">About</a>
+        <a class="navbarfont uppercase" href="{{ site.baseurl }}/about.html">About</a>
       </div>
     </div>
   </body>

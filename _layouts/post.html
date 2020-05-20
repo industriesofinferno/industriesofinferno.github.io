@@ -50,19 +50,21 @@ layout: default
 </div>
 
 <div class="flex justify-center">
-  <div class="mt-8 p-6 w-2/4 bg-white text-black">
+  <div class="mt-8 p-6 w-2/4 bg-white text-black border-t border-black border-solid">
     {% if page.previous.url %}
-      <a class="hover:text-teal-600 hover:underline" href="{{page.previous.url}}">Previous: {{page.previous.real-post-title}}</a><br>
+      <a class="hover:text-blue-400 hover:underline" href="{{page.previous.url}}">Previous: {{page.previous.real-post-title}}</a><br>
     {% endif %}
     {% if page.next.url %}
-      <a class="float-right hover:text-teal-600 hover:underline" href="{{page.next.url}}">Next: {{page.next.real-post-title}}</a>
+      <a class="float-right hover:text-blue-400 hover:underline" href="{{page.next.url}}">Next: {{page.next.real-post-title}}</a>
     {% endif %}
   </div>
   
 </div>
 
-<div class="w-2 p-2 inline">
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank"><img src="https://4.bp.blogspot.com/-raFYZvIFUV0/UwNI2ek6i3I/AAAAAAAAGSA/zs-kwq0q58E/s1600/facebook.png" alt="Facebook" /></a>
+<div class="inline flex justify-center">
+  <div class="w-2/4 text-right">
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank"><i class="text-black fab fa-facebook fa-lg"><span class="text-black"> Share on Facebook</span></i></a>
+  </div>
 </div>
 
 <script src="https://utteranc.es/client.js"

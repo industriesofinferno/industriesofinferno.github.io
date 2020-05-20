@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog.html
 - name: Music
   link: /categories/music.html
 - name: Books

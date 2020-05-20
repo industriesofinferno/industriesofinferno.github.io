@@ -3,5 +3,6 @@ layout: aboutstyle
 title: About
 ---
 
-The blog dabbles into all things uncanny, with an emphasis on art. Reviews of music albums, books, movies and video games; musings on folklore, mythology and the occult; as well as short stories. 
-Most of the material is in English, with some (especially short stories) texts being in Greek.
+This is the third incarnation of a blog in which I try to dabble into all things uncanny. Mostly reviews of music albums, books, movies and games (both digital and pen & paper); as well as musings on folklore, mythology and the occult; and a few short stories of mine. Most of the recent material is in English, while the majority of the older material (as well as most of the short stories) are in Greek.  
+<br>
+The blog does not actively accept comissions about reviews.<br>
