@@ -3,8 +3,9 @@ layout: post
 real-post-title: Doctor Who Top Episodes – Season 1
 featured-image: /films/doctor-who-tardis-wallpaper-hd.jpg
 featured-image-alt: doctor-who-tardis
-categories: [misc]
+categories: [movies]
 tags:  [sci-fi, uk, 2005]
+excerpt: Τα κορυφαία επεισόδια του Doctor Who, Season 1
 author: Athotep
 ---
 

@@ -26,7 +26,7 @@ $(document).ready(function(){
 
     $("#buttondown").click(function() {
         $('html, body').animate({
-            scrollTop: $("#blogposts").offset().top
+            scrollTop: $("#blogposts").offset().top-50
         }, 1000);
     });
   
