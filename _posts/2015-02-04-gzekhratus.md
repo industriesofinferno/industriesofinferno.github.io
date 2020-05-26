@@ -4,7 +4,7 @@ real-post-title: Gzekhratüs
 featured-image: /music/gzekhratus.jpg
 featured-image-alt: gzekhratus
 categories: [music]
-tags:  [black metal, spain, 2016]
+tags:  [black metal, spain]
 author: Athotep
 ---
 

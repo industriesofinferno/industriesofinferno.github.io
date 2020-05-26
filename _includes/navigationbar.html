@@ -1,5 +1,7 @@
 <div class="fixed top-0 w-full z-10 bg-black border-b-2 border-white">
-  <nav>
+  <nav class="flex flex-row">
+    <a class="py-3 flex items-center justify-center ml-6 mr-12" href="{{ site.baseurl }}/"><img class="h-10 rounded-full hover:opacity-50" src="/assets/images/indlogo.jpg"></a>
+
     <ul class="flex justify-center sticky">
         {% for item in site.data.navigation %}
           <li class="group mr-6 inline-block dropmedown relative py-3">
@@ -23,8 +25,10 @@
         {% endfor %}
         <form class="text-black border uppercase heading border-black m-4" action="/search.html" method="get">
           <input class="" type="text" id="search-box" name="query">
-          <input class="rounded bg-black navbarfont text-white font-semibold py-1 px-2 border uppercase heading border-white hover:border-black hover:bg-white hover:text-black" type="submit" value="search">
+          <input class="rounded bg-black navbarfont text-white cursor-pointer font-semibold py-1 px-2 border uppercase heading border-white hover:border-black hover:bg-white hover:text-black" type="submit" value="search">
         </form>
+        <a class="py-3 flex items-center justify-center" href="https://www.facebook.com/industriesofinferno/"><i class="text-white fab fa-facebook fa-2x hover:text-blue-700"></i></a>
+         
     </ul>
   </nav>
 </div>

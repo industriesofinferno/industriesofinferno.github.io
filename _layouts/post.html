@@ -3,7 +3,7 @@ layout: default
 ---
 
   {% include navigationlight.html %}
-<div class="bg-fixed max-w-none min-h-screen featureimg pt-16 bg-cover" {% if page.featured-image %} style="background-image: url(/assets/images/{{ page.featured-image }})"{% endif %}>
+<div class="bg-fixed max-w-none min-h-screen featureimg pt-16 bg-cover bg-center" {% if page.featured-image %} style="background-image: url(/assets/images/{{ page.featured-image }})"{% endif %}>
 </div>
 
 <div class="flex justify-center">
@@ -24,12 +24,12 @@ layout: default
     <div class="flex justify-center">
           <div class="border-solid border-black border-t h-1 w-2/5 mb-4 self-center"></div>
     </div>
-
-    <div class="indentia text-justify">
+ 
+    <div class="text-justify">
         {{ content }}
       <p class="text-right">
         
-        {{ page.date | date_to_string }}<br>
+        <p class="py-1 text-right">{{ page.date | date_to_string }}</p><br>
 
         {% if post %}
           {% assign tags = post.tags %}
@@ -63,7 +63,7 @@ layout: default
 
 <div class="inline flex justify-center">
   <div class="w-2/4 text-right">
-    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank"><i class="text-black fab fa-facebook fa-lg"><span class="text-black"> Share on Facebook</span></i></a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank"><i class="text-black fab fa-facebook fa-lg hover:text-blue-700"><span class="text-black"> Share on Facebook</span></i></a>
   </div>
 </div>
 

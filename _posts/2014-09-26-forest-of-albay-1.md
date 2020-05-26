@@ -5,6 +5,7 @@ featured-image: fer.jpg
 featured-image-alt: markelesi
 categories: [short-stories]
 tags:  [2013]
+excerpt: Πρώτο μέρος της νοβελέτας Δάσος του Άλμπεϊ
 author: Athotep
 ---
 

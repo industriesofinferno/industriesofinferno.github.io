@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Links</title>
+    <link rel="alternate" type="application/atom+xml" title="Industries of Inferno" href="/feed.xml">
+    <link rel="stylesheet" href="/assets/css/exodia.css"> 
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://kit.fontawesome.com/4b98a9722b.js" crossorigin="anonymous"></script>
+    {% feed_meta %}
+    {% seo %}
+    
+  </head>
+  <body class="bg-black text-white flex flex-col">
+      {% include navigationbar.html %}
+      <div class="flex justify-center mt-24 mb-8">
+        <img  class="rounded h-64 w-64" src="assets/images/indlogo.jpg" alt="wall of doom">
+      </div>
+      
+      {{ content }}
+      
+    <div class="max-w-none bottom-0 w-full bg-black text-white flex flex-row p-6">
+      
+      <div class="w-1/4">
+        
+      </div>
+      <div class="w-1/4">
+        
+      </div>
+      
+      <div class="w-1/4 text-right">
+        <a class="navbarfont uppercase hover:text-teal-600" href="{{ site.baseurl }}/">Industries of Inferno, {{ site.time | date: '%Y' }} </a>
+        &nbsp;&nbsp;
+        <a class="navbarfont uppercase hover:text-teal-600" href="{{ site.baseurl }}/about.html">About</a>
+        &nbsp;&nbsp;
+        <a class="navbarfont hover:text-teal-600" href="/feed.xml" target="_blank">RSS</a>
+      </div>
+      <div class="w-1/4 text-right">
+        <button class="hover:text-teal-600" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });"><i class="fas fa-level-up-alt fa-2x"></i> </button>
+      </div>
+    </div>
+  </body>
+</html>
