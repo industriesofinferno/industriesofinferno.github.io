@@ -46,7 +46,8 @@ $(document).ready(function(){
 $(document).ready(function(){
 
     $(".mobilnavbutton").click(function(){
-      $(".barheia").toggle();
+      $(".barheia").toggle('medium');
+      $(".kleise").toggle();
     });
   
   });

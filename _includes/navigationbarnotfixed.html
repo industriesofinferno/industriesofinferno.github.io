@@ -1,29 +1,31 @@
 <div id="belobara" class="fixed hidden top-0 w-full z-20 bg-white border-b-2 border-black">
-  <nav class="flex flex-row">
-    <a class="py-3 flex items-center justify-center ml-6 mr-12" href="{{ site.baseurl }}/"><img class=" h-32 lg:h-10 rounded-full hover:opacity-50" src="/assets/images/indlogo.jpg"></a>
+  <nav class="flex flex-row items-center">
+    <a class="kleise py-3 flex items-center justify-center ml-6 mr-12" href="{{ site.baseurl }}/"><img class=" h-32 lg:h-10 rounded-full hover:opacity-50" src="/assets/images/indlogo.jpg"></a>
     
     <ul class="barheia hidden lg:flex justify-center sticky">
         {% for item in site.data.navigation %}
-          <li class="group mr-6 block lg:inline-block dropmedown relative py-3">
+          <li class="group mr-6 block lg:inline-block dropmedown relative pl-4 lg:pl-0 py-3 border-b-2 border-solid border-black lg:border-b-0">
             <a href="{{ item.link }}" class="text-black navbarfont uppercase hover:text-gray-500 text-5xl lg:text-2xl"><h3>{{ item.name }}</h3></a>
           </li>
         {% endfor %}
+        <li>
+          <div class="flex lg:items-center lg:justify-center">
+            <a class="py-3 flex items-center justify-center" href="https://www.facebook.com/industriesofinferno/"><i class="ri-facebook-circle-fill text-6xl text-black lg:hover:text-blue-700 lg:text-3xl"></i></a><a class="p-3 flex items-center justify-center hover:text-teal-600" href="/feed.xml" target="_blank"><i class="text-6xl text-black lg:text-2xl ri-rss-line"></i></a>
+          </div>
+        </li>
     </ul>
 
-    <div class="flex items-center justify-center">
-      <form class=" text-black border border-solid uppercase heading border-black m-4" action="/search.html" method="get">
-        <input class="" type="text" id="search-box" name="query">
-        <input class="rounded bg-black navbarfont text-white cursor-pointer text-4xl lg:text-base font-bold lg:font-semibold py-1 px-2 border uppercase heading border-white hover:border-black hover:bg-white hover:text-black" type="submit" value="search">
+    <div class="kleise flex flex-grow justify-start">
+      <form class="text-white lg:text-black uppercase heading border-black border-solid border flex items-center justify-center" action="/search.html" method="get">
+        <input class="mx-4 lg:mx-0 h-16 lg:h-8 text-black text-4xl lg:text-base max-w-xs rounded-lg" type="text" id="search-box" name="query">
+        <input class="rounded bg-black navbarfont text-white cursor-pointer text-5xl lg:text-base font-bold lg:font-semibold py-1 px-2 ml-4 border uppercase heading border-white hover:border-black hover:bg-white hover:text-black" type="submit" value="search">
       </form>
     </div>
 
-    <div class="flex lg:items-center lg:justify-center">
-      <a class="py-3 flex items-center justify-center" href="https://www.facebook.com/industriesofinferno/"><i class="ri-facebook-circle-fill text-6xl text-black lg:hover:text-blue-700 lg:text-3xl"></i></a>
-    </div>
     
-    <div class="lg:hidden flex absolute top-0 right-0 mr-1 mt-1 lg:items-center lg:justify-center">
-      <button class="my-3 mobilnavbutton px-3 py-2 border text-5xl lg:text-base rounded text-black border-solid border-2 border-black">
-        PRESS ME
+    <div class="lg:hidden flex absolute top-0 right-0 mr-12 mt-5 lg:items-center lg:justify-center">
+      <button class="my-3 mobilnavbutton px-4 py-2 text-5xl lg:text-base rounded-lg bg-black text-white">
+        <i class="ri-menu-line text-5xl"></i> 
       </button>
     </div>
 
