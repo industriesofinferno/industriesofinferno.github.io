@@ -47,7 +47,6 @@
                 this.add({
                     'id': key,
                     'title': window.store[key].post,
-                    'author': window.store[key].author,
                     'category': window.store[key].category,
                     'content': window.store[key].content
                 });

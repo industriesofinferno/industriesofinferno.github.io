@@ -5,9 +5,14 @@ title: Miscellaneous
 {% include navigationlight.html %}
 <div class="flex flex-col w-full min-h-screen">
     
-  <h1 class="text-3xl text-black pl-6 pt-6 navbarfont uppercase">Miscellaneous</h1>
+  <div class="flex flex-row">
+    <h1 class="text-3xl text-black pl-6 pt-6 navbarfont uppercase w-4/5">Miscellaneous</h1>
+    <button class="mt-6 mr-6 absolute right-0 buttontoggle rounded bg-transparent navbarfont rounded text-black font-semibold uppercase heading hover:text-teal-600">
+      <i class="font-light text-3xl ri-layout-column-line"></i>
+    </button>
+  </div>
       
-      <div class="flex flex-wrap overflow-hidden p-6 text-black">
+      <div class="paneli flex flex-wrap overflow-hidden p-6 text-black">
         {% for post in site.categories.misc %}
             <div class=" w-1/3" >
               <a href="{{ post.url }}">
@@ -24,4 +29,19 @@ title: Miscellaneous
           {% endfor %}
       </div>
     
+      <div class="paneli flex flex-wrap overflow-hidden p-6 text-black hidden">
+        {% for post in site.categories.misc %}
+            <div class="w-1/2 flex flex-row" >
+                <a href="{{ post.url }}">
+                  <div class="m-1 p-2 h-16 w-16 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                  </div>
+                </a>
+                <div class="p-2">
+                  <a href="{{ post.url }}"><h2 class="text-base hover:text-blue-400">{{ post.real-post-title }}</h2></a>
+                  <span class="post-meta text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                </div>          
+            </div>
+          {% endfor %}
+      </div>
+
 </div>

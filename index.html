@@ -6,28 +6,26 @@ title: "Industries of Inferno"
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Home</title>
-    <script src="https://unpkg.com/lunr/lunr.js"></script>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <script src="/assets/js/scrollshow.js"></script>
-    <script src="/assets/js/search.js"></script>
   </head>
+
 
   <div class="flex flex-col">
 
-      <div class="flex flex-col bg-black text-white h-screen">
+      <div class="flex flex-col bg-black text-white lg:h-screen">
         
         <div class="flex-grow">
           <div class="flex justify-center mt-32 mb-8">
-            <div class="rounded-full border-solid border-gray-400 border h-32 w-32 bg-gray-100 overflow-hidden">
+            <div class="rounded-full border-solid border-gray-400 border h-64 w-64 lg:h-32 lg:w-32 bg-gray-100 overflow-hidden">
               <img class="object-cover" src="assets/images/red_death.jpg">
             </div>
           </div>
           
-          <h1 class="container headingfont text-4xl font-light max-w-none text-center text-gray-100">{{ page.title | upcase }}</h1>
-          <h3 id="deiktis1" class="container headingfont text-2xl font-light max-w-none text-center text-gray-100">Uncanny musings</h3>
-          <div class="w-full text-center mt-24">
-            <button id="buttondown" class="rounded bg-transparent navbarfont rounded text-white font-semibold py-2 px-4 border uppercase heading border-white hover:border-transparent hover:bg-white hover:text-black">
+          <h1 class="container headingfont text-6xl lg:text-4xl font-light max-w-none text-center text-gray-100">{{ page.title | upcase }}</h1>
+          
+          <h3 id="deiktis1" class="container headingfont mb-8 lg:mb-0 text-4xl lg:text-2xl font-light max-w-none text-center text-gray-100">Uncanny musings</h3>
+          
+          <div class="hidden lg:block w-full text-center mt-24">
+            <button id="buttondown" class="rounded bg-white lg:bg-transparent navbarfont rounded text-black lg:text-white text-4xl lg:text-xl font-semibold py-2 px-4 border uppercase heading border-white lg:hover:border-transparent lg:hover:bg-white lg:hover:text-black">
               Crawl
             </button>
           </div>
@@ -41,15 +39,15 @@ title: "Industries of Inferno"
       </div>
       
       <div id="blogposts" class="bg-white flex flex-col">
-        <h1 class="text-3xl text-black pl-6 pt-10 navbarfont uppercase">Latest Posts</h1>
+        <h1 class="text-5xl text-center lg:text-left font-bold lg:font-normal lg:text-3xl text-black pl-6 pt-10 navbarfont uppercase">Latest Posts</h1>
 
         <div class="flex flex-wrap overflow-hidden p-6 text-black">
           {% for post in site.posts limit:6 %}
-              <div class=" w-1/3" >
+              <div class="w-full lg:w-1/3" >
                 <a href="{{ post.url }}">
-                  <div class="m-1 p-2 h-64 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                  <div class="m-1 p-2 h-screen/2 lg:h-64 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
                     <div class="bg-black text-white text-left inline-block px-1">
-                      <h3>
+                      <p class="text-5xl lg:text-lg">
                         {% if post %}
                         {% assign categories = post.categories %}
                           {% else %}
@@ -59,15 +57,15 @@ title: "Industries of Inferno"
                         {{ category | upcase }}
                         {% unless forloop.last %}&nbsp;{% endunless %}
                         {% endfor %}
-                      </h3> 
+                      </p> 
                     </div>
                   </div>
                 </a>
-                  <div class="p-2">
-                    <h2 class="text-xl hover:text-blue-400"><a href="{{ post.url }}">{{ post.real-post-title }}</a></h2></a>
-                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                <div class="p-2">
+                    <h2 class=" text-5xl lg:text-xl hover:text-blue-400"><a href="{{ post.url }}">{{ post.real-post-title }}</a></h2></a>
+                    <span class="post-meta text-red-600 text-2xl lg:text-base ">{{ post.date | date: "%b %-d, %Y" }}</span><br>
                     <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
-                    {{ post.excerpt | truncatewords: 40 }}
+                    <span class=" text-3xl lg:text-base">{{ post.excerpt | truncatewords: 40 }}</span>
                 </div>
               </div>
             {% endfor %}
@@ -75,12 +73,12 @@ title: "Industries of Inferno"
       </div>
 
       <div class="flex flex-col w-full border-t-2 border-solid border-black">
-        <span class="text-3xl text-black pl-6 pt-10 navbarfont uppercase">CATEGORIES</span>
+        <span class="text-5xl text-center lg:text-left font-bold lg:font-normal lg:text-3xl text-black pl-6 pt-10 navbarfont uppercase">CATEGORIES</span>
 
-        <div class="flex flex-row p-6">
+        <div class="flex flex-col lg:flex-row p-6">
           
-          <div class="w-1/3">
-            <span class="ml-6 px-2 navbarfont text-2xl uppercase bg-black text-white">
+          <div class="w-full lg:w-1/3">
+            <span class="text-5xl text-center lg:text-left lg:text-2xl font-bold lg:font-normal ml-6 px-2 navbarfont uppercase bg-black text-white">
               <a href="{{ site.baseurl }}/categories/music.html">
                 Music
               </a>
@@ -88,14 +86,14 @@ title: "Industries of Inferno"
 
             <div class="flex flex-wrap navbarfont overflow-hidden p-6 text-black">
               {% for post in site.categories.music limit:3 %}
-                <div class="w-full flex">                
-                  <a href="{{ post.url }}" class="w-1/2">
-                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                <div class="w-full flex flex-col lg:flex-row pb-12 lg:pb-0 ">                
+                  <a href="{{ post.url }}" class="w-full lg:w-1/2">
+                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 h-screen/2 lg:h-32" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
                     </div>
                   </a>
-                  <div class="text-base w-1/2">
+                  <div class="text-5xl lg:text-lg hover:text-blue-400 w-full lg:w-1/2">
                     <a href="{{ post.url }}"><h2 class="hover:text-blue-400">{{ post.real-post-title }}</h2></a>
-                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <span class="post-meta text-2xl lg:text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
                     <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
                   </div> 
                 </div>
@@ -104,8 +102,8 @@ title: "Industries of Inferno"
 
           </div>
           
-          <div class="w-1/3">
-            <span class="ml-6 px-2 navbarfont text-2xl uppercase bg-black text-white">
+          <div class="w-full lg:w-1/3">
+            <span class="text-5xl text-center lg:text-left lg:text-2xl font-bold lg:font-normal ml-6 px-2 navbarfont uppercase bg-black text-white">
               <a href="{{ site.baseurl }}/categories/books.html">
                 Books
               </a>
@@ -113,14 +111,14 @@ title: "Industries of Inferno"
 
             <div class="flex flex-wrap overflow-hidden p-6 text-black">
               {% for post in site.categories.books limit:3 %}
-                <div class="w-full flex">                
-                  <a href="{{ post.url }}" class="w-1/2">
-                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                <div class="w-full flex flex-col lg:flex-row pb-12 lg:pb-0 ">                
+                  <a href="{{ post.url }}" class="w-full lg:w-1/2">
+                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 h-screen/2 lg:h-32" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
                     </div>
                   </a>
-                  <div class="text-base w-1/2">
+                  <div class="text-5xl lg:text-lg hover:text-blue-400 w-full lg:w-1/2">
                     <a href="{{ post.url }}"><h2 class="hover:text-blue-400">{{ post.real-post-title }}</h2></a>
-                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <span class="post-meta text-2xl lg:text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
                     <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
                   </div> 
                 </div>
@@ -129,8 +127,8 @@ title: "Industries of Inferno"
 
           </div>
 
-          <div class="w-1/3">
-            <span class="ml-6 px-2 navbarfont text-2xl uppercase bg-black text-white">
+          <div class="w-full lg:w-1/3">
+            <span class="text-5xl text-center lg:text-left lg:text-2xl font-bold lg:font-normal ml-6 px-2 navbarfont uppercase bg-black text-white">
               <a href="{{ site.baseurl }}/categories/movies.html">
                 Movies
               </a>
@@ -138,14 +136,14 @@ title: "Industries of Inferno"
 
             <div class="flex flex-wrap overflow-hidden p-6 text-black">
               {% for post in site.categories.movies limit:3 %}
-                <div class="w-full flex">                
-                  <a href="{{ post.url }}" class="w-1/2">
-                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                <div class="w-full flex flex-col lg:flex-row pb-12 lg:pb-0 ">                
+                  <a href="{{ post.url }}" class="w-full lg:w-1/2">
+                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 h-screen/2 lg:h-32" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
                     </div>
                   </a>
-                  <div class="text-base w-1/2">
+                  <div class="text-5xl lg:text-lg hover:text-blue-400 w-full lg:w-1/2">
                     <a href="{{ post.url }}"><h2 class="hover:text-blue-400">{{ post.real-post-title }}</h2></a>
-                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <span class="post-meta text-2xl lg:text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
                     <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
                   </div> 
                 </div>
@@ -156,81 +154,81 @@ title: "Industries of Inferno"
           
         </div>
         
-        <div class="flex flex-row p-6 navbarfont text-2xl">
+        <div class="flex flex-col lg:flex-row p-6">
 
-          <div class="w-1/3">
-            <span class="ml-6 px-2 navbarfont text-2xl uppercase bg-black text-white">
+          <div class="w-full lg:w-1/3">
+            <span class="text-5xl text-center lg:text-left lg:text-2xl font-bold lg:font-normal ml-6 px-2 navbarfont uppercase bg-black text-white">
               <a href="{{ site.baseurl }}/categories/gaming.html">
                 Gaming
               </a>
             </span>
-      
+
             <div class="flex flex-wrap overflow-hidden p-6 text-black">
               {% for post in site.categories.gaming limit:3 %}
-                <div class="w-full flex">                
-                  <a href="{{ post.url }}" class="w-1/2">
-                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                <div class="w-full flex flex-col lg:flex-row pb-12 lg:pb-0 ">                
+                  <a href="{{ post.url }}" class="w-full lg:w-1/2">
+                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 h-screen/2 lg:h-32" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
                     </div>
                   </a>
-                  <div class="text-base w-1/2">
+                  <div class="text-5xl lg:text-lg hover:text-blue-400 w-full lg:w-1/2">
                     <a href="{{ post.url }}"><h2 class="hover:text-blue-400">{{ post.real-post-title }}</h2></a>
-                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <span class="post-meta text-2xl lg:text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
                     <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
                   </div> 
                 </div>
                 {% endfor %}
             </div>
-      
+
           </div>
 
-          <div class="w-1/3">
-            <span class="ml-6 px-2 navbarfont text-2xl uppercase bg-black text-white">
+          <div class="w-full lg:w-1/3">
+            <span class="text-5xl text-center lg:text-left lg:text-2xl font-bold lg:font-normal ml-6 px-2 navbarfont uppercase bg-black text-white">
               <a href="{{ site.baseurl }}/categories/short-stories.html">
                 Short Stories
               </a>
             </span>
-      
+
             <div class="flex flex-wrap overflow-hidden p-6 text-black">
               {% for post in site.categories.short-stories limit:3 %}
-                <div class="w-full flex">                
-                  <a href="{{ post.url }}" class="w-1/2">
-                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                <div class="w-full flex flex-col lg:flex-row pb-12 lg:pb-0 ">                
+                  <a href="{{ post.url }}" class="w-full lg:w-1/2">
+                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 h-screen/2 lg:h-32" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
                     </div>
                   </a>
-                  <div class="text-base w-1/2">
+                  <div class="text-5xl lg:text-lg hover:text-blue-400 w-full lg:w-1/2">
                     <a href="{{ post.url }}"><h2 class="hover:text-blue-400">{{ post.real-post-title }}</h2></a>
-                    <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <span class="post-meta text-2xl lg:text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
                     <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
                   </div> 
                 </div>
-              {% endfor %}
+                {% endfor %}
             </div>
-      
+
           </div>
 
-          <div class="w-1/3">
-            <span class="ml-6 px-2 navbarfont text-2xl uppercase bg-black text-white">
+          <div class="w-full lg:w-1/3">
+            <span class="text-5xl text-center lg:text-left lg:text-2xl font-bold lg:font-normal ml-6 px-2 navbarfont uppercase bg-black text-white">
               <a href="{{ site.baseurl }}/categories/misc.html">
                 Miscellaneous
               </a>
             </span>
-      
+
             <div class="flex flex-wrap overflow-hidden p-6 text-black">
               {% for post in site.categories.misc limit:3 %}
-                  <div class="w-full flex">                
-                    <a href="{{ post.url }}" class="w-1/2">
-                      <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
-                      </div>
-                    </a>
-                    <div class="text-base w-1/2">
-                      <a href="{{ post.url }}"><h2 class="hover:text-blue-400">{{ post.real-post-title }}</h2></a>
-                      <span class="post-meta text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
-                      <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
-                    </div> 
-                  </div>
+                <div class="w-full flex flex-col lg:flex-row pb-12 lg:pb-0 ">                
+                  <a href="{{ post.url }}" class="w-full lg:w-1/2">
+                    <div class="m-1 p-2 h-32 bg-cover bg-center hover:opacity-75 h-screen/2 lg:h-32" {% if post.featured-image %} style="background-image: url(/assets/images/{{ post.featured-image }})"{% endif %}>
+                    </div>
+                  </a>
+                  <div class="text-5xl lg:text-lg hover:text-blue-400 w-full lg:w-1/2">
+                    <a href="{{ post.url }}"><h2 class="hover:text-blue-400">{{ post.real-post-title }}</h2></a>
+                    <span class="post-meta text-2xl lg:text-sm text-red-600">{{ post.date | date: "%b %-d, %Y" }}</span><br>
+                    <!--{% if post.author %}{{ post.author }}<span></span>{% endif %}-->
+                  </div> 
+                </div>
                 {% endfor %}
             </div>
-      
+
           </div>
 
         </div>

@@ -35,10 +35,6 @@
        1px  1px 0 #000;
   }
 
-  .dropmedown:hover .dropdown-menu{
-    display: block;
-  }
-
   #gs_cb50{
     color: black;
   }

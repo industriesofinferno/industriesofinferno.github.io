@@ -8,8 +8,8 @@ tags:  [adventure games, 2012]
 excerpt: Cat Lady crawling
 author: Athotep
 ---
-
-[Εδώ στα Ελληνικά]({{ site.baseurl}}/gaming/2015/03/08/the-cat-lady-2012-gr.html)  
+ 
+[Εδώ στα Ελληνικά]({{ site.baseurl}}/gaming/2015/03/08/the-cat-lady-2012-gr.html){:.text-blue-600 .hover:text-blue-400}  
 <br>
 There are few things more detestable to me than horror that constrains itself to the human factor only, horror of the “human is the greatest monster” kind, horror that dissolves supernatural in the pool of psychological factors. The highest of desecrations: to establish a narrative of paranormal appearances, to let the receiver of the artwork be immersed in it, revel in its weirdness, and then to deconstruct the supernatural part, blaming all to madness or -even worse- to plain human emotion. This viewpoint of mine excludes the ambiguous artwork, the one whose narrative is susceptible to multiple explanations, thus allowing its partaker to adopt the hermeneutic model of his choice. “The Cat Lady” (an adventure game of 2012, among the much discussed about specimens of contemporary horror) belongs to this last category of exceptions.  
 <br>

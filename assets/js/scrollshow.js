@@ -32,3 +32,21 @@ $(document).ready(function(){
   
   }); 
 
+$(document).ready(function(){
+
+  $(".buttontoggle").click(function(){
+    $(".paneli").toggle('medium', function() {
+        if ($(this).is(':visible'))
+            $(this).css('display','inherit');
+    });
+  });
+
+});
+
+$(document).ready(function(){
+
+    $(".mobilnavbutton").click(function(){
+      $(".barheia").toggle();
+    });
+  
+  });
