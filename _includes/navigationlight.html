@@ -1,36 +1,31 @@
-<div class="fixed top-0 w-full z-10 bg-white border-b-2 border-black">
-
+<div class="fixed top-0 w-full z-20 bg-white border-b-2 border-black">
   <nav class="flex flex-row">
-    <a class="py-3 flex items-center justify-center ml-6 mr-12" href="{{ site.baseurl }}/"><img class="h-10 rounded-full hover:opacity-50" src="/assets/images/indlogo.jpg"></a>
-
-    <ul class="flex justify-center">
+    <a class="py-3 flex items-center justify-center ml-6 mr-12" href="{{ site.baseurl }}/"><img class=" h-32 lg:h-10 rounded-full hover:opacity-50" src="/assets/images/indlogo.jpg"></a>
+    
+    <ul class="barheia hidden lg:flex justify-center sticky">
         {% for item in site.data.navigation %}
-          <li class="group mr-6 inline-block dropmedown relative py-3">
-            <a href="{{ item.link }}" class="text-black navbarfont uppercase hover:text-gray-500 text-2xl"><h3>{{ item.name }}</h3></a>
-              {% if item.subfolderitems[0] %}
-                <ul class="hidden dropdown-menu">
-                  {% for entry in item.subfolderitems %}
-                      <li><a href="{{ site.baseurl }}{{ entry.link }}" class="text-black navbarfont uppercase hover:text-gray-500 text-2xl">{{ entry.name }}</a>
-                        {% if entry.subsubfolderitems[0] %}
-                          <ul>
-                          {% for subentry in entry.subsubfolderitems %}
-                              <li><a href="{{ site.baseurl }}{{ subentry.link }}">{{ subentry.name }}</a></li>
-                          {% endfor %}
-                          </ul>
-                        {% endif %}
-                      </li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
+          <li class="group mr-6 block lg:inline-block dropmedown relative py-3">
+            <a href="{{ item.link }}" class="text-black navbarfont uppercase hover:text-gray-500 text-5xl lg:text-2xl"><h3>{{ item.name }}</h3></a>
           </li>
         {% endfor %}
-        <form class="text-black border uppercase heading border-black m-4" action="/search.html" method="get">
-          <input class="" type="text" id="search-box" name="query">
-          <input class="rounded bg-black navbarfont text-white cursor-pointer font-semibold py-1 px-2 border uppercase heading border-white hover:border-black hover:bg-white hover:text-black" type="submit" value="search">
-        </form>
-        <a class="py-3 flex items-center justify-center" href="https://www.facebook.com/industriesofinferno/"><i class="text-black hover:text-blue-700 fab fa-facebook fa-2x"></i></a>
     </ul>
+
+    <div class="flex items-center justify-center">
+      <form class=" text-black border border-solid uppercase heading border-black m-4" action="/search.html" method="get">
+        <input class="" type="text" id="search-box" name="query">
+        <input class="rounded bg-black navbarfont text-white cursor-pointer text-4xl lg:text-base font-bold lg:font-semibold py-1 px-2 border uppercase heading border-white hover:border-black hover:bg-white hover:text-black" type="submit" value="search">
+      </form>
+    </div>
+
+    <div class="flex lg:items-center lg:justify-center">
+      <a class="py-3 flex items-center justify-center" href="https://www.facebook.com/industriesofinferno/"><i class="ri-facebook-circle-fill text-6xl text-black lg:hover:text-blue-700 lg:text-3xl"></i></a>
+    </div>
+    
+    <div class="lg:hidden flex absolute top-0 right-0 mr-16 mt-1 lg:items-center lg:justify-center">
+      <button class="my-3 mobilnavbutton px-3 py-2 text-5xl lg:text-base rounded text-black border-solid border-2 border-black">
+        <i class="ri-menu-line text-4xl"></i> 
+      </button>
+    </div>
+
   </nav>
-
 </div>
-
