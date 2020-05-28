@@ -4,7 +4,7 @@ real-post-title: At the Altar of the Horned God – Through Doors Of Moonlight (
 featured-image: 183796.jpg
 featured-image-alt: album cover
 image:
-  path: 183796.jpg
+  path: /assets/images/183796.jpg
   height: 100
   width: 100
 categories: [music]
