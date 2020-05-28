@@ -3,6 +3,10 @@ layout: post
 real-post-title: At the Altar of the Horned God – Through Doors Of Moonlight (I, Voidhanger, 2020)
 featured-image: 183796.jpg
 featured-image-alt: album cover
+image:
+  path: 183796.jpg
+  height: 100
+  width: 100
 categories: [music]
 tags:  [black metal, spain, 2020]
 excerpt: A rich, diverse album transcending genres and discarding traditional structure, earning with its sword the avant-garde descriptor.
