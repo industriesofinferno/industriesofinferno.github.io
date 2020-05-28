@@ -3,8 +3,13 @@ layout: post
 real-post-title: Dödfödd – Demo 15 (Independent)
 featured-image: /music/dodfoll.jpg
 featured-image-alt: dodfoll
+image:
+  path: /assets/images/music/dodfoll.jpg
+  height: 100
+  width: 100
 categories: [music]
 tags:  [black metal, sweden, 2015]
+excerpt: Ένα παλμικό μανουάλι για ιδιαίτερα γούστα, με πλήρη την μαυρομεταλλική ατμόσφαιρα.
 author: Athotep
 ---
 

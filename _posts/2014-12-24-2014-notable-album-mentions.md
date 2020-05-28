@@ -3,9 +3,13 @@ layout: post
 real-post-title: 2014 notable album mentions
 featured-image: /mistforest1.jpg
 featured-image-alt: mistforest1
+image:
+  path: /assets/images/mistforest1.jpg
+  height: 100
+  width: 100
 categories: [music]
 tags:  [lists, 2014]
-excerpt: Ή αλλιώς ότι δε χώρεσε στην εικοσάδα (αλφαβητικά)
+excerpt: Ή αλλιώς, ό,τι δε χώρεσε στην εικοσάδα (αλφαβητικά)
 author: Athotep
 ---
 

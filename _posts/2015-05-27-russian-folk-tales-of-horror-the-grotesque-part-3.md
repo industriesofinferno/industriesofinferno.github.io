@@ -1,0 +1,100 @@
+---
+layout: post
+real-post-title: Russian Folk-tales of Horror & the Grotesque, part 3
+featured-image: /folklore/baba.jpg
+featured-image-alt: baba
+image:
+  path: /assets/images/folklore/baba.jpg
+  height: 100
+  width: 100
+categories: [misc]
+tags:  [russia, mythology, folklore, horror]
+excerpt: Third and final part of a feature about Russian horror folktales.
+author: Athotep
+---
+
+[Link to Part 1]({{ site.baseurl }}/misc/2015/05/01/russian-folk-tales-of-horror-the-grotesque-part-1.html){:.text-blue-600 .hover:text-blue-400}  
+<br>
+[Link to Part 2]({{ site.baseurl }}/misc/2015/05/08/russian-folk-tales-of-horror-the-grotesque-part-2.html){:.text-blue-600 .hover:text-blue-400}  
+<br>
+The following stories are drawn from two books which are available for free online:  
+<br>
+**A: [Afanas’ev, A. N. Russian Folk-Tales. With introduction and notes by Leonard A. Magnus](https://archive.org/details/russianfolktales00afanuoft){:.text-blue-600 .hover:text-blue-400}**  
+<br>
+**B: [Ralston, W. R. S. Russian Folk-Tales](https://archive.org/details/russianfolktales00ralsrich){:.text-blue-600 .hover:text-blue-400}**  
+<br>
+
+**The Fiend(B: p.10)**  
+<br>
+**Summary:** A young girl meets a man who asks her to marry him. When the girl follows him one night, she traces him inside a church, in which he sees him devouring a corpse who had been left for the night. When asked by him on the next days, she subsequently denies of having seen him that night. But each time she answers him, the death of a member of her family follows suit. Finally, when it is clear that she is to die next, she is told to order a priest to take her coffin out of the house and bury her at a crossroads. After a while she is brought back to life, and finally confronts the Fiend/man with holy water.  
+<br>
+**Comments:** Apart from the information about the village festivities in the beginning, in which we see gender separation during daytime (the girls were gathered together for the day), and this separation’s dissolution during night-time, the text informs us of the importance of the Place of Origin, as far as social bonds are concerned. The girl, Marusia, will not accede to marrying the alluring youth, unless he reveals to her his origins. Her mother provides her with a plan to do so, which involves the use of a ball of thread, the one edge of which must be thrown above one of the youth’s buttons. Here, parallels can be drawn to the presence of balls of yarn in mythology and folklore, as well as to the image of the spinner (usually a woman) almost worldwide. The unravelling of the tangled ball, as an act of creation (see The Winter Goddess: Percht, Holda, and Related Figures, p.10-11), an action that brings order to chaos, is magically (in a sympathetic way) related to discoveries, to overcoming of chaotic situations (as is the labyrinth, which Theseus “conquered” and “ordered” via the ball of yarn given to him by Ariadne). As in the microcosmic scale the tangled mess is unravelled and ordered, thus also in the macrocosm. So, in order for the girl to find the youth’s place of origin, the ball of thread is useful, not only in a semi-practical way (since following it will indeed reveal the man’s residence – though the distance covered should be restricted), but also in a magical, symbolic way.
+
+The revealing of the youth as cadaver, as a corpse-eating sort of ghoul, is done through the girl’s climbing of a ladder, in order to visually access the church’s interior. The church itself offers no protection, to the integrity of the dead or the living, as we have already seen in the Viy sub-genre. The place, by itself, appears to have no power over evil. As for the girl’s climbing of the ladder, it can be associated to the symbolic axis mundi of the building (see comments on the “Dead Witch”), thus making the vertical movement on it a passage through worlds, unattainable through horizontal movement; the dead body and the cadaverous youth could well be considered to be on a different world layer. The fear of the girl in front of the devouring of the dead flesh (an action breaking the taboo of cannibalism, as well as the sanctity of the dead) is evident, leading it to rush action, which will prove her doom.
+{: class="indentia"}
+
+The death of her parents first, and then of herself, comes apparently (I use the word here with the “rationalizing through written facts alone” meaning, not the “naturally” one) through the medium of word alone. The youth’s proclamation is inescapable. Even the old sage woman, the counsellor archetype we have seen on the “Headless Princess”, is now unable to provide direct help against the fiend’s curse. On the contrary, she accepts the fact that the girl will die, and tries to guide her towards an indirect, post-mortem solution. Her guidelines are of particular interest: Marusia’s body is not to be removed through the door, but via a passage that is to be dug underneath the threshold. Then, it is to be buried at a crossroads.
+{: class="indentia"}
+
+The avoidance of the threshold requires of us to shed some light to the threshold symbolism. According to Mircea Eliade, the threshold of the residence, as well as the threshold between two separate spaces in general, is a border, a separation of their qualities, distinguishing the two different worlds that correspond to each. But it is also the passage between them, their mode of communication. The threshold has also its guardians, beings that bar entrance to enemies and evil spirits.(The Sacred and the Profane). On this occasion, the avoidance of formal exit through the threshold could well refer to the circumvention of the transition between two worlds, namely that of the living, expressed by the house interior, and that of the dead, outside the dwelling. A sort of trick actually, so as to trick the soul, the guardians, or both, so as the soul to remain on this world. Another explanation could be the analogy between the passage through the earth and the womb, as a symbolic birth, which could lead to an eminent rebirth of the dead girl.
+{: class="indentia"}
+
+From there on, the story presents us with the motif of metamorphosis, the resurrection of a being in another form (a flower in the story), the transition between forms after a while being voluntary on the part of the subject, through an specific action. The motif of transfiguration of being is widely spread in the Russian folk-tales, as is also the performance of magic by stomping on the ground (the mode of metamorphosis for Mariusa). This action can be seen as symbolically provoking a rift in the earth, an invasion of the being, a symbolic, vertical, axis mundi, through which powers of the supernatural can seep into the “normal” world. Thus magic could be worked.
+{: class="indentia"}
+
+Another widespread, in the Russian lore, motif, is that of the Water of Life, which has the ability to bring back the dead to life. In other tales, the Waters of Life are two, one for restoring the body back to wholeness/removing the decay, and one for bringing life back to it, but here there is only one. Water is worldwide considered an element of rejuvenation and of rebirth, and more than that, an agent of change, due to its fluid nature. It also symbolizes purity, being occasionally an anathema to impure spirits, as in this story, where the Holy Water is able to destroy the fiend.
+{: class="indentia"}  
+<br>
+**The Shroud(B: p.307)**  
+<br>
+**Summary:** In a game of daring, a girl goes to the graveyard and sees a shrouded corpse sitting on a tomb. She takes with her the shroud, back to her home, while the corpse does not utter a word (it is not its time yet). After a while the corpse comes to the girl’s window and demands the shroud back. However, it isn’t satisfied by her giving just giving it, but wants the girl to return it to the grave, from where she took it. The same happens during the next night, but in both cases the corpse is driven away by the dawn. The girl’s family decides to go to the church during a mass, whereupon a great whirlwind is unleashed, and picks up the girl, nothing to be seen of her again, except for her back hair which is left on the spot.  
+<br>
+Comments: On the beginning of this story we are reacquainted with the notion of the woman as spinner, accompanied by the statement that the lazy girl tries to make the other ones spin for her, through favours. This mutual exchange is indirectly frowned upon by the story, which is perhaps a lesson in self reliance. The social nature of the girls’ spinning gatherings is accompanied by echoes of female initiation rites(see Rites and Symbols of Initiation).
+
+Fear, or rather the absence of it is the driving force behind the tale. We read that fear of cemeteries after dark is an almost universal one, as well as is the fear of removing holy items from a church (an icon on the occasion). The only person who does not fear in the tale is the lazy one, which somehow implies a connection between prudence and diligence. Fear of death and the dark is almost universal, so I will not elaborate on it here. The removal of holy items from their rightful place has much to do with the idea of the holy as detached from the physical world, the world of everyday persons. The interior of the temple is considered as belonging to a different world, in which the places of items are determined (directly or indirectly) by the powers dwelling in that other world. These places, since corresponding to another world and pre-decided by intelligences of it, are not to be tampered with by mortals of our world.
+{: class="indentia"}
+
+Midnight hour is implied here as the most ominous of hours, a time of danger. If one considers the instinctual fear of night, it is only natural that its middle, midnight, is its most threatening time.
+{: class="indentia"}
+
+As in *A Tale of the Dead/The Coffin Lid*, the Shroud appears valuable to the dead, a possession for whose recovery the dead will persistently try anything. Return of it must be done in a manner similar to how it was taken. Simply giving it to the undead while far from its original place will not do. This is a ritualised action, implying a ritual of reversal behind the whole activity, in order to satisfy the wronged party.
+{: class="indentia"}
+
+Present here, for one more time is the cock as a herald of dawn, his crow dispelling the presence of supernatural (for a bit more see the comments on “A Tale of the Dead/A Ride on the Gravestone”).
+{: class="indentia"}
+
+Once again we see here the helplessness of the Russian church against evil or the supernatural. The building offers no protection to the hunted girl, who is summarily taken away by a whirlwind. The power of nature is here presented as an agent of the supernatural, and of revenge (or justice, depending on the point of view). Only the girl’s braid remains among the normal world.
+{: class="indentia"}
+
+In conclusion, it seems that the belief in nature’s power was great among the Russians, overshadowing that of religion. Despite the conversion to Christianity, the pagan roots were deep, and Russians are not necessarily convinced of the omnipotence of the new religion. The Russian nature on the other hand, almighty and terrible in many of its manifestations since time immemorial, is a deeply feared mistress, but it is also the one that can protect against the evil and the unnatural (the power of day-coming).
+{: class="indentia"}  
+<br>
+**Vasilisa the Fair(A: p.109)/(B: p.150)**  
+<br>
+That is perhaps the crowning jewel of the Russian fairytale corpus, a darkly beautiful tale. I will not try to summarize it here, but will instead just mention some of its weird elements.  
+<br>
+**Summary:** Vasilisa has a doll, left to her by her dead mother, which is to be fed by the girl, in order to perform tasks for her. When she speaks to Vasilisa, the doll’s eyes glow like candleflames. The Baba Yaga’s fence is made of dead men’s bones; on the top of the fence are stuck human skulls with eyes in them – those eyes glow brightly at night; instead of uprights at the gates are men’s legs; instead of bolts are arms; instead of a lock is a mouth with sharp teeth. Incorporeal hands appear, under the doll’s will, and the flaming eyes of the skull she takes home spit forth a mighty conflagration.  
+<br>
+**Comments:** We see again here the appearance of the animate doll (as in the “By command of the Prince Daniel” story), this time its origin lying with Vasilisa’s dead mother: Transference of a magical gift through blood one could argue, especially from female to female. The doll itself, besides an aid to the girl, is also a tutor of sorts; we read that it teaches her herb-lore. The doll demands nutrition in order to provide help to her owner. Vasilisa forfeits her own food, part of her own power and lifeforce one could say, in order to achieve some extraordinary effect. Here lie the whispers of elder witchcraft, of those reciprocating systems that are built on symbolic exchange. The doll as such does not require any sustenance, but the act of Vasilisa’ deprivation, her offering up of the necessities for her own survival, brings about the easing of her burdens. Drawing parallels to fasting is somehow dubious; the act itself is ascetic, but the mention that Vasilisa keeps getting plumper remains a thorn to the side of this argument, from a physical standpoint.
+
+Baba Yaga makes an appearance in the story, from which we can glean some of the witch’s characteristics. Her place of dwelling is in the deep woods and there is where she systematically cannibalizes people. The hut’s facade is described as utterly grotesque, its normal structural parts being replaced by bodily ones, which respond to the witch’s voice. The image of the whole evokes a giant body, the anthropomorphic evocations obvious (instead of lock a mouth with sharp teeth, hands in place of bolts, etc). A Freudian analyst would probably elaborate on the analogies between the hut and the vagina, as well as explain away Baba Yaga herself as the archetype of the terrible mother which must be overcome by the heroine, in order for her to claim her independence. The same archetype however could be also attributed to the stepmother, the core cause behind the quest, while the doll could be connected to the early memories of childhood, where the child is still considering his will as the factor provoking change in the world.
+{: class="indentia"}
+
+The main quest of the heroine is one for the spark of fire. The fire is not discovered here, but rather reclaimed, avoiding thus comparisons to Promethean figures. The fire is however necessary for the act of spinning (which was performed by the heroine), in contrast with the acts of knitting and sawing, and thus is Vasilisa forced to take up to nightly wanderings. The triptych of women, each performing an activity associated with the processing of fibres and cloth, is reminiscent obviously of the triads of women in mythologies (the Fates for instance).
+{: class="indentia"}
+
+The quest itself could be considered absurd if judged by logical and practical means: the trip to Baba Yaga’s hut for a spark of fire takes days, time in which one could probably discover some other means of producing fire. But time and (especially) logic work many times in different ways in mythological and folk-tale settings. As it happens, upon returning to the house, Vasilisa herself thinks about the absurdity of her quest, saying that “they can’t be still in want of a light at home.” But as it happens, the natural laws were suspended during her absence, and indeed her stepfamily was unable to light a fire by any means possible. Thus, the fortress of logic remains unassailable, from a structural point of view, but the natural laws stand defeated.
+{: class="indentia"}
+
+We are also familiarized with the three riders passing systematically from the hut of Baba Yaga, their nature explained by the witch: They are personifications of day, night, and the sun, who we are told are servants of Yaga. The implications of this declaration is that the witch, if she so wishes, could change the order of appearance of each, or even the time of appearance of each, thus leading to the conclusion that she can bend the perception of time itself (since time, especially for the folk of yester days was mainly perceived by the cycle of day, night, and the sun’s appearance).
+{: class="indentia"}  
+<br>
+**Bibliography:**  
+<br>
+Eliade, Mircea. The Sacred and the Profane  
+<br>
+Eliade, Mircea. Rites and Symbols of Initiation  
+<br>
+Motz, Lotte. The Winter Goddess: Percht, Holda, and Related Figures (paper)  
+<br>
+Piaget, Jean. The Child’s Conception of the World

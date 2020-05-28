@@ -3,8 +3,13 @@ layout: post
 real-post-title: 2014 - Μια πρώτη ανασκόπηση
 featured-image: /mistforest1.jpg
 featured-image-alt: genreic black metal aesthetics
+image:
+  path: /assets/images/mistforest1.jpg
+  height: 100
+  width: 100
 categories: [music]
 tags:  [black metal, gothic, 2014]
+excerpt: Μια πρώτη ματιά στη μουσική παραγωγή του 2014. 
 author: Athotep
 ---
 

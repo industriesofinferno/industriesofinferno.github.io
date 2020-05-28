@@ -3,6 +3,10 @@ layout: post
 real-post-title: Isolert – Isolated Soul demo (Independent, 2015)
 featured-image: /music/isolert.jpg
 featured-image-alt: Isolated Soul
+image:
+  path: /assets/images/music/isolert.jpg
+  height: 100
+  width: 100
 categories: [music]
 tags:  [black metal, greece, 2015]
 excerpt: A somewhat rushed release, that nevertheless creates promises about the future
@@ -10,9 +14,12 @@ author: Athotep
 ---
 
 Isolert is a hatchling (duo) band coming from Volos, Greece, and “Isolated Soul” is their first demo release, independently (and only digitally) released. Quite short in duration (clocking just over 12 minutes), the release consists of 3 tracks, while the cover art is quite minimal and naturalistic. It seems that the band was formed in 2015, so one can surmise that a release in such a short notice will be a bit rushed, a half-truth for the demo in question.
+{: class="indentia"}
 
 The band’s music tends towards the Norwegian classic-era sound, slightly filtered through a Greek-scene lens. Essentially melodic guitar riffs, not avert to sporadically integrating a heavy metal attitude, are framed by a quite audible bass guitar and typical but satisfactory drum patterns. Vocals are double-edged blade – the default black metal shrieks that dominate most of the demo are quite overdone in their quest for rawness and echo; they are too prominent on the mix, ending up flat and unconvincing. On the contrary, some attempts on alternative and clean vocalisation was a positive surprise. Composition-wise the band is not highly original (the second track, “Empty Memory (Hate for Mankind)”, is possibly the album’s best, but there are parts of it quite reminiscent of Naer Mataron’s “Diastric Fields of War”) but nevertheless succeeds in capturing the listener’s attention, by not using overdone compositional formulas. Quite a nice touch is the instrumental ambience that permeates certain album parts, creating a ghostly atmosphere (check Empty Memory’s middle part and the haunting finale of “Isolated Soul”).
+{: class="indentia"}
 
-Isolert’s “Isolated Soul” is a somewhat rushed release, that nevertheless creates promises about the future. With a bit more attention on the mixing and a certain amount of change on the vocal course, Isolert can output a solid full-length; the seeds exist within the demo, waiting to be nurtured.  
+Isolert’s “Isolated Soul” is a somewhat rushed release, that nevertheless creates promises about the future. With a bit more attention on the mixing and a certain amount of change on the vocal course, Isolert can output a solid full-length; the seeds exist within the demo, waiting to be nurtured.
+{: class="indentia"}  
 <br>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2166233330/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://isolert.bandcamp.com/album/isolated-soul">Isolated Soul by Isolert</a></iframe>

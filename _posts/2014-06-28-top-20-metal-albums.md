@@ -3,8 +3,13 @@ layout: post
 real-post-title: Top 20 metal albums
 featured-image: /mistforest1.jpg
 featured-image-alt: mistforest1
+image:
+  path: /assets/images/mistforest1.jpg
+  height: 100
+  width: 100
 categories: [music]
 tags:  [lists]
+excerpt: 20 σημαντικοί metal δίσκοι.
 author: Athotep
 ---
 
