@@ -20,14 +20,14 @@ author: Athotep
 This one is “outside” the list, since it does not contain any new material, but rather just a re-recording of two tracks from the second and third Manes demos (for those not familiar with Manii, they are -since 2011- the old-school aspect of Manes), which are however still throbbing with perfection. Less eerie, the guitar perhaps a tad more highlighted than in the original versions, yet carrying this unearthly wind that is associated with Manes’ demo years.  
 <br>
 
-**10\. Nécropole – Ostara (Demo)** 
+**10\. Nécropole – Ostara (Demo)**  
 <br>
 <iframe class="w-full" height="415" src="https://www.youtube.com/embed/q6iILrqqKD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br>
-A French trio delivering old-school black metal via the Finnish vein (namely the Sargeist, Satanic Warmaster style – melodic guitars sprinkled with a bit of fuzziness in the production, into a channel of passionate impetuosity), in this, their second demo. Not much diversity mood-wise, this is a monolithic cascade streaming rapidly through frozen landscapes. 
+A French trio delivering old-school black metal via the Finnish vein (namely the Sargeist, Satanic Warmaster style – melodic guitars sprinkled with a bit of fuzziness in the production, into a channel of passionate impetuosity), in this, their second demo. Not much diversity mood-wise, this is a monolithic cascade streaming rapidly through frozen landscapes.  
 <br>
 
-**9\. Ithaqua – Initiation To Obscure Mysteries (Demo)** 
+**9\. Ithaqua – Initiation To Obscure Mysteries (Demo)**  
 <br>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1625742397/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://ironboneheadproductions.bandcamp.com/album/ithaqua-initiation-to-obscure-mysteries">Ithaqua - Initiation To Obscure Mysteries by Iron Bonehead Productions</a></iframe>  
 <br>
