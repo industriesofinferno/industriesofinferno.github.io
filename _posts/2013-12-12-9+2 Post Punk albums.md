@@ -3,12 +3,17 @@ layout: post
 real-post-title: 9+2 Post Punk albums
 featured-image: batcave.jpg
 featured-image-alt: batcave logo
+image:
+  path: /assets/images/batcave.jpg
+  height: 100
+  width: 100
 categories: [music]
 tags:  [post punk, gothic, lists]
+excerpt: A list of 11 essential post-punk albums.
 author: Athotep
 ---
-*Πρώτη δημοσίευση στο [SKRA-Punk](http://skra-punk.com/2014/01/02/1857/){:.text-blue-600 .hover:text-blue-400}.*
-
+*Πρώτη δημοσίευση στο [SKRA-Punk](http://skra-punk.com/2014/01/02/1857/){:.text-blue-600 .hover:text-blue-400}.*  
+<br>
 Γιατί εννιά και όχι δέκα; Εύλογη απορία. Το έκανα για να αποφύγω κάποιες δύσκολες επιλογές εκεί στη δέκατη θέση. Αντί αυτού λοιπόν, βάζω ως μπόνους τα 2 καλύτερα κατ’ εμέ άλμπουμ της ελληνικής post punk σκηνής. Παρερχόμενος τη μικρή αντισυμβατικότητα του αριθμού, εδώ έχουμε τα 9+2 άλμπουμ που θεωρώ ότι βρίσκονται στην κορυφή του συγκεκριμένου ιδιώματος(post punk, gothic rock, deathrock). Αριστουργήματα όλα με τον ένα ή άλλο τρόπο, και από συνειδητή επιλογή έμεινα σε δίσκους που κυκλοφόρησαν μέχρι και τα 80’s. Υπ’ όψιν, η λίστα αφορά μόνο δίσκους, δεν κατατάσσει τα συγκροτήματα όσον αφορά τη συνολική τους πορεία(στην οποία περίπτωση για παράδειγμα οι Bauhaus θα ήταν ξερά στην πρώτη θέση). Δίχως χρονοτριβή, ιδού η λίστα:  
 <br>
 **9\. The Sound – From the Lion’s Mouth**  

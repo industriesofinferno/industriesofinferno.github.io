@@ -8,7 +8,7 @@ image:
   height: 100
   width: 100
 categories: [gaming]
-tags:  [trpg]
+tags:  [trpg, rpg]
 excerpt: Μια απόπειρα για σκιαγραφή της δικής μου ψυχογεωγραφίας των επιτραπέζιων RPG.
 author: Athotep
 ---

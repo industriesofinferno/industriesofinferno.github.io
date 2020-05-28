@@ -1,0 +1,29 @@
+---
+layout: post
+real-post-title: Concerning Stories (Part 1)
+featured-image: preng1.jpg
+featured-image-alt: Stories
+image:
+  path: /assets/images/preng1.jpg
+  height: 100
+  width: 100
+categories: [misc]
+tags:  [theory, 2015]
+excerpt: Musings about stories
+author: Athotep
+---
+
+A story is the projection of an experience on and through a communication medium of artistic nature; the experience being either real or imaginary, but either way experienced (in the past or at present) by the storyteller. It is the projection ON a communication medium because the experience is formalised on the canvas chosen by the storyteller, be it oral narration (in which case the canvas is the voice and gestural “library”), literature (empty writing space being the canvas), theatre (canvas: the scene and its unchangeable architecture), etc. It is a projection THROUGH a medium because the story’s content is presented via techniques and materials embedded on the medium (oral narration: words, sentences, voice pitch, body movement(though it blurs the bounds between oral narration and theatrics). Literature: words, sentences, literary structure (paragraphs, hyphenation, chapters), accompanying imagery. Theatre: costumes, stage props and decoration, actors (blending the lines between theatre and narration), lighting, any templates concerning audience placement or participation, script, play advertisement and press presentation.
+{: class="indentia"}
+
+“Stories consist of some selections from the set of available cultural practices, crafted to represent events chronologically” (Alexander Brian, The New Digital Storytelling, p.6). It is without say that the first part of this argument is true: The storyteller’s experiences, him/her being a member of a society (be he under the influence of others (societies) or not), are bound to be influenced and shaped by cultural features. Even if the content or the cause of the story is a natural phenomenon or an experience with an alien culture, the story’s structure and appearance (essentially the form, the image created in the storyteller’s mind, from which(image) springs forth the artwork) will be created with cultural building materials. This is inevitable, because the whole way of thinking of a person is built through cultural experience. Thus, even on the occasion of a story without words (let’s say an experimental film without script) the transmutation of the experience into a work presentable to other people is done through the storyteller’s mind, through his personality, which is irrevocably a product of the culture. Thus, even an event irrelevant to the culture(s) of the storyteller, becomes through a story relevant to the culture(s), since its representation is a product of the storyteller’s personality.
+{: class="indentia"}
+
+As far as the second part of the argument (“crafted to represent events chronologically”) is concerned: “Chronologically” is a fluid concept. On its most traditional and widely-used meaning, it conveys the idea of an order of linear time events. It implies order through placement of these events on a (direction-given) time chain, each link corresponding to an event. Thus an event happening before another (before and after as they are understood by a human examining the events) is chronologically Before the other on the imaginary chain. In other words, this meaning implies a linear (as far as time is concerned) narration of events. Yet, there is no need to assume that chronologically is restricted to this meaning. One can learn of events in a non-linear way – learn about the effect before the cause, for example, and never be able to ascertain which happened before the other. In this occasion, chronologically may refer to this person’s internal chain of events, be it completely arbitrary or not. Still, a certain chain exists here too, since it is impossible to think of two events happening in exactly the same time (2 links being on the same place on the chain). Thus, “chronologically” as far as I am concerned has to do with a classification of events on a linear way, usually, but not always, upon “objective” time.
+{: class="indentia"}
+
+In stories now, it is more than possible to have a jumbled order of links on the chain, voluntarily or not, due to misconception of the experience events, literary trick, narrative style, etc. Thus, if we take the traditional chronological meaning, then the argument is not always valid, but if we accept the broader meaning, then the story is indeed crafted to represent events chronologically, since even on a jumbled time order, one event gives way to another, and no two of them can be narrated at the exact same time (theatre parallel scenes can be an exception).
+{: class="indentia"}
+
+“Stories are objects with meaning”(Alexander Brian, The New Digital Storytelling, p.6). If we restrict the meaning of object on material entities, then this argument is valid only for stories narrated through a totally material medium (literature, poetry, artwork). On these: Let’s take a story book: It is a material object, on which is inscribed the content of a story, and on whose cover (usually) is written or depicted something concerning the story or conveying an aspect of it. An empty book remains an object but the meaning of it as a book is non-existent. It has the meaning of existence, but beyond that nothing – no qualities of the term book can be associated with it beyond the completely material ones (volume, mass, shape), which have almost nothing to do with the story (almost, because through meta-thinking, a book’s physical characteristics can cause associations to a person – through smell similar to another book it has read, etc). But a book with story content is granted a meaning – even from the cover, an aspect of story is presented to the reader.
+{: class="indentia"}

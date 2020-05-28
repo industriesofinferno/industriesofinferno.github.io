@@ -9,7 +9,7 @@ image:
   width: 100
 categories: [books]
 tags:  [horror, 1984]
-excerpt: Μια ματιά στο πρώτο από τα Βιβλία του Αίματος
+excerpt: Μια ματιά στο πρώτο από τα Βιβλία του Αίματος.
 author: Athotep
 ---
 

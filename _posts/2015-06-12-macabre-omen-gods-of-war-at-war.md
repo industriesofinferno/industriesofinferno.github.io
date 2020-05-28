@@ -1,0 +1,38 @@
+---
+layout: post
+real-post-title: Macabre Omen – Gods of War, at War (Ván Records, 2015)
+featured-image: /music/macabre.jpg
+featured-image-alt: macabre
+image:
+  path: /assets/images/music/macabre.jpg
+  height: 100
+  width: 100
+categories: [music]
+tags:  [black metal, greece, 2015]
+excerpt: Not only there is not a filler to be found in this album, but it is almost impossible to find a single weak moment; here is magnificence extraordinaire.
+author: Athotep
+---
+
+How does one listen to epic metal? (I limit the question’s scope only on epic metal, since the album in question is a prime example of this sound) With this question, I mean, on what level of immersion inside an album’s concept (including music, lyrics, aesthetics), has one to descend, in order to fully enjoy and experience the album in question? Is just the music, sans lyrics and aesthetics, enough for one to say that he has grasped an epic metal album’s spirit? I seriously doubt that, at least judging from my experience. What would “Hammerheart” be without the Viking lyrics, without Dicksee’s painting, with only the band showing in spikes and leather in “One Rode to Asa Bay’s” video, instead of the visual masterpiece that it is? What if Manilla Road wrote about contemporary Wichita instead of “Necropolis”? Epic metal (as well as black metal, two genres that are not that much apart aesthetically in my mind) is for me, first and foremost, a womb of imaginary thoughtscapes and emotionscapes, which are inextricably tied to an imaginary past, its setting real or fictious, expressed through music, aesthetics, and lyrics. This past’s idealized image usually excites me, creating illogical nostalgic and stimulating emotions within me, illogical because they are focused towards something non-existent, something which only indirectly I have come in contact with. The thing is, that this idealized image (that I tend to crave, due to its emotional effects), if it is concerned with a real-world past, sometimes is not far from the idealized image that has been used by nationalistic movements inside the country in question. I tend to keep the image inside me, for emotional consumption, and actively try to leave it out of my political thinking and attitude, without saying that its effect is non-existent.
+{: class="indentia"}
+
+This prologue has to do with my response towards Macabre Omen’s sophomore album’s tracklisting; when it was revealed, 2 song titles stood out, causing a certain degree of discomfort upon me: “Man of 300 Voices”, and “Hellenes Do Not Fight Like Heroes, Heroes Fight Like Hellenes” (which also happens to be the album’s best track for me – quite awkward). They both carry a nationalistic vibe, since certain events of (and myths about) Greek history have become a banner under which nationalistic movements have mustered, the neo-Nazi Golden Dawn party being a contemporary example. A song’s title is quite an important trait of it, close in importance for me to the lyrics itself, since it is the song’s facade, so the bitter taste of these song titles is not going anywhere. Since, however, I have the uttermost respect about Alexandros’ works, both with Macabre Omen and The One, I was not much thwarted by this discomfort, but neither did I left it to dissipate, choosing instead to also check the album’s lyrics, which as a whole are of a high quality. But there are certain phrases that I found to be part of a nationalistic narrative, namely the ones about “worthless, barbaric lives” (in both of the two aforementioned songs), referring to the Persian armies. One could argue about the historical validity(?) of those terms, but the fact is that they could well be avoided. On the other hand, “Alexandros Ode A&B” lyrics are of a postmortem Achillean mindset; that is, doubt about ideals and longing for the lost life of a youth – quite excellent in fact. On the rest of the album, past and sea intertwine in a more than satisfying manner, while the deeply emotional “From Son to Father” contains a poem of Alexandros’ father.
+{: class="indentia"}
+
+Moving onwards now, the album as a whole is amazing. It seemed quite hard a feat the surpassing of an album as good as “The Ancient Returns”, but Macabre Omen’s second opus is better from every aspect, a monument of this decade’s (at the very least) epic metal. There are very few artists that have managed to distil Quorthon’s epic sound in their own music successfully, and among them only a minority has managed to truly create an innovative work of art based not on Bathory albums’ music but on their spirit. Apart from this album, I can only think of Scald’s “Will of Gods is a Great Power” as an example of such a magnificent work.
+{: class="indentia"}
+
+What Alexandros has managed to create in this album is the admixture of the grandiosity of Hammerheart-era Bathory (another similarity between the two albums is the Sea opening: “I see the Sea” is the opening track’s title, just like “Shores in Flames” opened Quorthon’s masterpiece), of Scandinavian black metal ferocity (the opening riff of “Gods of War” is pure “Transilvanian Hunger” worship), and of Greek folk music melody (especially island-ish folk), which is is revealed as an extremely effective medium of the Epic. The alternation of the last two components is amazing, creating a monumental atmosphere, that appears ominous as well archaic. An alteration that does not stop only here, but is extended on to the vocals, which are quite varied; from Burzum-like howls (“Athens is on fire!”), to deep, imposing (a la Hate Forest, in a manner), booming recitations, to highly emotional beautiful melodic clean singing, and battle hymnal screams. I said that “Hellenes Do Not Fight Like Heroes, Heroes Fight Like Hellenes” is my awkwardly favourite track of the album, and in this, one can hear all the aforementioned variety. Many of the folkish guitars are recycled throughout the album, not due to lack of ideas, but in order to emphasize the atmosphere and concept nature of the whole album.
+{: class="indentia"}
+
+Beyond Alexandros, T. J. F. Vallely (of Lychgate) appears as a band member (drums and all other percussion things), while there are guest appearances from Gothmog (Thou Art Lord), Greg Chandler (Lychgate), and Nocternity’s great Khal Drogo. The first two provide additional vocals on certain tracks, while Khal Drogo has recorded guitar solos for the first two tracks. The album’s production is flawless, both the guitars and vocals being on just the right level of volume and clarity, while percussion is oscillating in voluminous presence, depending on the tracks’ necessities.
+{: class="indentia"}
+
+Not only there is not a filler to be found in the album, but it is almost impossible to find the album’s weak moment; here is magnificence extraordinaire. Clocking just above 60 minutes, its duration is almost non-perceptible. I could go on praising the album track-by-track, but this is beyond the point. Just visit the band’s bandcamp and listen to one of the best albums of the decade.
+{: class="indentia"}  
+<br>
+**Highlights:** Everything  
+<br>
+**Check Also:** Bathory – “Hammerheart”, Scald – “Will of Gods is a Great Power”, Atlantean Kodex – “The White Godess”  
+<br>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1258188759/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://macabreomen.bandcamp.com/album/gods-of-war-at-war">Gods Of War - At War by Macabre Omen</a></iframe>
