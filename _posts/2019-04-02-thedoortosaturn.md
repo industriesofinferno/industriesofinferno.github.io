@@ -9,7 +9,7 @@ image:
   width: 100
 categories: [books]
 tags:  [horror, fantasy, sci-fi]
-excerpt: Διαβάζοντας των δεύτερο τόμο με τα άπαντα πεζά του Clark Ashton Smith
+excerpt: Διαβάζοντας τον δεύτερο τόμο με τα άπαντα πεζά του Clark Ashton Smith
 author: Athotep
 ---
 
@@ -133,6 +133,6 @@ A claustrophobic, dark and brutally suggestive story, that ends in a crescendo o
 {: class="indentia"} 
 <br>
 
-[Volume 3](){:.text-blue-600 .hover:text-blue-400}
+[Volume 3]({{ site.baseurl }}/books/2019/04/17/avintagefromatlantis.html){:.text-blue-600 .hover:text-blue-400}
 
 [Volume 4](){:.text-blue-600 .hover:text-blue-400}
