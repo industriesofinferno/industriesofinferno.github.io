@@ -1,6 +1,6 @@
 ---
 layout: post
-real-post-title: Θορυβώδη Απομεινάρια
+real-post-title: Λυσσαλγία
 featured-image: 0182.jpg
 featured-image-alt: 0182
 image:
