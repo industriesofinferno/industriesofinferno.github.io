@@ -9,7 +9,7 @@ image:
   width: 100
 categories: [gaming]
 tags:  [crpg, geography, 2015]
-excerpt: Ένας ακατέργαστος ημιπολύτιμος λίθος
+excerpt: Χώρος και ηλεκτρονικά RPG με αφορμή το καταπληκτικό Pillars of Eternity. 
 author: Athotep
 ---
 

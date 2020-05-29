@@ -8,7 +8,7 @@ image:
   height: 100
   width: 100
 categories: [movies]
-tags:  [sci-fi, uk, 2005]
+tags:  [sci-fi, uk, tv, 2005]
 excerpt: Doctor Who επεισόδια, Season 3
 author: Athotep
 ---

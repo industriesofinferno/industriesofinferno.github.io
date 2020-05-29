@@ -9,7 +9,7 @@ image:
   width: 100
 categories: [music]
 tags:  [lists, 2015]
-excerpt: Αφιέρωμα στις καλύτερες μη ολοκληρωμένες κυκλοφορίες του 2015
+excerpt: The best non-full-length releases of 2015
 author: Athotep
 ---
 

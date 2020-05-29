@@ -1,0 +1,60 @@
+---
+layout: post
+real-post-title: The Nacirema people
+featured-image: north_america_1797.jpg
+featured-image-alt: north_america_1797
+image:
+  path: /assets/images/north_america_1797
+  height: 100
+  width: 100
+categories: [misc]
+tags:  [anthropology]
+excerpt: An anthropological curio.
+author: Athotep
+---
+
+The life of the Nacirema people of North America, a tribe with a surprisingly developed market economy, is characterized by rituals and practices that we would consider alien, barbarous, and even going contrary to the self-preservation instincts. The late anthropologist Horace Miner’s extensive studies of the tribe culminated in the “Body Ritual among the Nacirema” paper[^1], originally published in 1958. Let’s take a look at a few selected parts, the first of them concerned with the ritual visits of the tribesmen to a member of a sacerdotal order:
+{: class="indentia"}  
+<br>
+
+*“In addition to the private mouth–rite, the people [of the Nacirema tribe] seek out a holy–mouth–man once or twice a year. These practitioners have an impressive set of paraphernalia, consisting of a variety of augers, awls, probes, and prods. The use of these objects in the exorcism of the evils of the mouth involves almost unbelievable ritual torture of the client. The holy–mouth–man opens the client’s mouth and, using the above mentioned tools, enlarges any holes which decay may have created in the teeth. Magical materials are put into these holes. If there are no naturally occurring holes in the teeth, large sections of one or more teeth are gouged out so that the supernatural substance can be applied. In the client’s view, the purpose of these ministrations is to arrest decay. The extremely sacred and traditional character of the rite is evident in the fact that the natives return to the holy–mouth–men year after year, despite the fact that their teeth continue to decay.*
+
+*[…]One has but to watch the gleam in the eye of a holy–mouth–man, as he jabs an awl into an exposed nerve, to suspect that a certain amount of sadism is involved. If this can be established, a very interesting pattern emerges, for most of the population shows definite masochistic tendencies. It was to these that Professor Linton referred in discussing a distinctive part of the daily body ritual which is performed only by men. This part of the rite involves scraping and lacerating the surface of the face with a sharp instrument.”*  
+<br>
+
+Upon reading this excerpt for the first time, an image that came into my mind was that of a sacred mountainous retreat (namely the seat of power of the holy men) and a winding, narrow path, upon which the tribesmen traveled each year on their pilgrimage to the holy-mouth-men. Though never mentioned inside the text, a mountain (or at least a hilltop) is a somewhat obvious locale for the temple: in the text it is strongly implied that the people of the tribe consider the holy men keepers of power and somewhat apart and above them; it is also implied that the Nacirema travel to visit the holy-mouth-men in a sort of yearly pilgrimage; “the people seek out a holy–mouth–man once or twice a year” – “seek out” has a tone of the adventurous, of a quest for something that is not readily available, something or someone outside the daily-life plateau. Even the “naturally occurring holes in the teeth” evoke images of caves and rock formations. As for the sadism and masochistic aspects of Nacimera, they are already established via the horrendous practices mentioned above.
+{: class="indentia"}  
+<br>
+The following excerpt concerns ceremonies taking place in specialized temples named latipso:
+{: class="indentia"}  
+<br>
+
+*“The latipso ceremonies are so harsh that it is phenomenal that a fair proportion of the really sick natives who enter the temple ever recover. Small children whose indoctrination is still incomplete have been known to resist attempts to take them to the temple because “that is where you go to die.” Despite this fact, sick adults are not only willing but eager to undergo the protracted ritual purification, if they can afford to do so. No matter how ill the supplicant or how grave the emergency, the guardians of many temples will not admit a client if he cannot give a rich gift to the custodian. Even after one has gained admission and survived the ceremonies, the guardians will not permit the neophyte to leave until he makes still another gift.*
+
+*The supplicant entering the temple is first stripped of all his or her clothes. In everyday life the Nacirema avoids exposure of his body and its natural functions. Bathing and excretory acts are performed only in the secrecy of the household shrine, where they are ritualized as part of the body–rites. Psychological shock results from the fact that body secrecy is suddenly lost upon entry into the latipso . A man, whose own wife has never seen him in an excretory act, suddenly finds himself naked and assisted by a vestal maiden while he performs his natural functions into a sacred vessel. This sort of ceremonial treatment is necessitated by the fact that the excreta are used by a diviner to ascertain the course and nature of the client’s sickness.[…] From time to time the medicine men come to their clients and jab magically treated needles into their flesh. The fact that these temple ceremonies may not cure, and may even kill the neophyte, in no way decreases the people’s faith in the medicine men.”*   
+<br>
+
+A place closer to the underworld (“that is where you go to die”), an occult temple of a rich religious elite which must be gorged in gifts. Even the removal of the clothes is reminiscent of cthonic mythology (for instance Ishtar’s descent to the Underworld involves the gradual discarding of her clothes and ornaments).
+{: class="indentia"}
+
+The fact that the Nacirema in everyday life avoid exposure of their bodies and their natural functions (i.e. excretory acts), if taken into account along with their earlier mentioned obsession with the extraction of teeth and the scraping of the face, leads to the image of a tribe that has demonized the body. It considers it shameful and glorifies pain inflicted upon it as purificatory. Note also the largely patriarchal nature of the latipso temple clergy: the vestal maidens assist, while the medicine men are those having a substantial, energetic, leading role in the healing rituals.
+{: class="indentia"}
+
+The final excerpt refers to the tribe’s reproductive taboos:
+{: class="indentia"}  
+<br>
+
+*“Reference has already been made to the fact that excretory functions are ritualized, routinised, and relegated to secrecy. Natural reproductive functions are similarly distorted. Intercourse is taboo as a topic and scheduled as an act. Efforts are made to avoid pregnancy by the use of magical materials or by limiting intercourse to certain phases of the moon. Conception is actually very infrequent. When pregnant, women dress so as to hide their condition. Parturition takes place in secret, without friends or relatives to assist, and the majority of women do not nurse their infants.”*   
+<br>
+
+As with the other bodily functions, intercourse is taboo among the Nacirema – it is obvious that these people have a deeply instilled fear and abhorrence of their bodies. All things coming out of the body are shameful, even infants, which are born in secrecy and are not even nursed by their mothers in most cases. See also how intercourse is limited by the lunar phases, a clear indication of its ritualized nature.
+{: class="indentia"}  
+<br>
+
+—————————————————————————————————————————–
+
+Let’s change the subject: Palindromes are (among other things) words that read the same backwards as forward. Two of the most famous palindromes are the Byzantine “ΝΙΨΟΝ ΑΝΟΜΗΜΑΤΑ ΜΗ ΜΟΝΑΝ ΟΨΙΝ” and the Roman “SATOR AREPO TENET OPERA ROTAS.” They usually offer a pleasant sense of fulfillment if someone discovers their palindrome nature on his own. (This paragraph contains a hint towards another layer of the Nacirema peoples)
+{: class="indentia"}  
+<br>
+
+[^1]: [Body Ritual Among The Nacirema](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwidoLvG1djpAhVOyjgGHSZ7DcUQFjAAegQIAhAB&url=http%3A%2F%2Fwww.sfu.ca%2F~palys%2FMiner-1956-BodyRitualAmongTheNacirema.pdf&usg=AOvVaw0C11UmDa444z5ChqpA0Egs){:.text-blue-600 .hover:text-blue-400} 
