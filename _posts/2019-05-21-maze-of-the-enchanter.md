@@ -146,6 +146,8 @@ Part of the Zothique cycle. When CAS focuses on dungeon crawling he excels. With
 {: class="indentia"}  
 <br>
 
-[Volume 2]({{ site.baseurl }}/books/2019/04/02/thedoortosaturn.html){:.text-blue-600 .hover:text-blue-400}
+[Volume 2]({{ site.baseurl }}/books/2019/04/02/the-door-to-saturn.html){:.text-blue-600 .hover:text-blue-400}
 
 [Volume 3]({{ site.baseurl }}/books/2019/04/17/avintagefromatlantis.html){:.text-blue-600 .hover:text-blue-400}
+
+[Volume 5]({{ site.baseurl }}/books/2019/09/21/the-last-hieroglyph.html){:.text-blue-600 .hover:text-blue-400}

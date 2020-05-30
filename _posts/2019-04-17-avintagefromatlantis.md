@@ -149,6 +149,8 @@ Magnificence incarnate in the Averoigne circle. A long story with highly atmosph
 {: class="indentia"}  
 <br>
 
-[Volume 2]({{ site.baseurl }}/books/2019/04/02/thedoortosaturn.html){:.text-blue-600 .hover:text-blue-400}
+[Volume 2]({{ site.baseurl }}/books/2019/04/02/the-door-to-saturn.html){:.text-blue-600 .hover:text-blue-400}
 
 [Volume 4]({{ site.baseurl }}/books/2019/05/21/maze-of-the-enchanter.html){:.text-blue-600 .hover:text-blue-400}
+
+[Volume 5]({{ site.baseurl }}/books/2019/09/21/the-last-hieroglyph.html){:.text-blue-600 .hover:text-blue-400}
