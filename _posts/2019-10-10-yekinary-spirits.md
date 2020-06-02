@@ -29,6 +29,8 @@ As far as the raw materials are concerned, they are the following four beliefs o
 * Souls destined to be newborn children are hanging from the crossbeams of a god’s house. (Koryak people)
 {:.list-inside .list-disc}  
 <br>
-as well as the [Arachne](https://en.wikipedia.org/wiki/Arachne){:.text-blue-600 .hover:text-blue-400} and [Paris’ judgment](https://en.wikipedia.org/wiki/Judgement_of_Paris){:.text-blue-600 .hover:text-blue-400} myths of ancient Greece.  
+* as well as the [Arachne](https://en.wikipedia.org/wiki/Arachne){:.text-blue-600 .hover:text-blue-400} and [Paris’ judgment](https://en.wikipedia.org/wiki/Judgement_of_Paris){:.text-blue-600 .hover:text-blue-400} myths of ancient Greece.
+{:.list-inside .list-disc}  
 <br>
-<iframe src="https://drive.google.com/file/d/1Olf_bco6aQ6jCx1L-TnoZe8d5pytDVOh/preview" class="w-full" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Olf_bco6aQ6jCx1L-TnoZe8d5pytDVOh/preview" class="w-full" height="480"></iframe>  
+<br>

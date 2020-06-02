@@ -3,3 +3,28 @@
 @tailwind components;
 
 @tailwind utilities;
+
+
+.markdown ul {
+    @apply text-base pl-8 list-disc;
+  }
+  
+.markdown ol {
+    @apply text-base pl-8 list-decimal;
+}
+
+.markdown blockquote {
+    @apply text-base border-l-4 border-gray-300 pl-4 pr-4 text-gray-600;
+  }
+
+.markdown table {
+    @apply text-base border-gray-600;
+  }
+
+.markdown th {
+    @apply border py-1 px-3;
+  }
+  
+.markdown td {
+    @apply border py-1 px-3;
+  }

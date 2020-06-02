@@ -20222,6 +20222,54 @@ video {
   transition-delay: 1000ms;
 }
 
+.markdown ul {
+  font-size: 1rem;
+  padding-left: 2rem;
+  list-style-type: disc;
+}
+
+.markdown ol {
+  font-size: 1rem;
+  padding-left: 2rem;
+  list-style-type: decimal;
+}
+
+.markdown blockquote {
+  font-size: 1rem;
+  border-left-width: 4px;
+  --border-opacity: 1;
+  border-color: #e2e8f0;
+  border-color: rgba(226, 232, 240, var(--border-opacity));
+  padding-left: 1rem;
+  padding-right: 1rem;
+  --text-opacity: 1;
+  color: #718096;
+  color: rgba(113, 128, 150, var(--text-opacity));
+}
+
+.markdown table {
+  font-size: 1rem;
+  --border-opacity: 1;
+  border-color: #718096;
+  border-color: rgba(113, 128, 150, var(--border-opacity));
+}
+
+.markdown th {
+  border-width: 1px;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.markdown td {
+  border-width: 1px;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
 @media (min-width: 640px) {
   .sm\:space-y-0 > :not(template) ~ :not(template) {
     --space-y-reverse: 0;
