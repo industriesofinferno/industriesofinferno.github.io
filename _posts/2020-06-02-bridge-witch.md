@@ -31,7 +31,7 @@ She is a bridge witch, dividing her time between the three bridges of her area, 
 > What kind of wand does she use?  
 <br>
 
-A crooked staff with a piece of (always wet) string joining the two horns. 
+A crooked staff with a piece of (always wet) string joining the two horns.  
 <br>
 
 > What’s in her cauldron?  
