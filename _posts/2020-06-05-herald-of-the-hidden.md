@@ -1,10 +1,10 @@
 ---
 layout: post
 real-post-title: Herald of the Hidden, Mark Valentine (Tartarus Press, 2013)
-featured-image: /books/heraldhiddenjpg
-featured-image-alt: heraldhiddenjpg
+featured-image: /books/heraldhidden.jpg
+featured-image-alt: heraldhidden
 image:
-  path: /assets/images/books/heraldhiddenjpg.jpg
+  path: /assets/images/books/heraldhidden.jpg
   height: 100
   width: 100
 categories: [books]
