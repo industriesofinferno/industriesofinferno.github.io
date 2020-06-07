@@ -9,7 +9,7 @@ image:
   width: 100
 categories: [books]
 tags:  [horror, mark valentine, 2013]
-excerpt: 
+excerpt: Despite embracing the trappings of the detective and ghost-story genres, Herald of the Hidden breaks away with them at crucial points in an innovative way, all the time retaining the essence of a cozy candle-flame read.
 author: Athotep
 ---
 
