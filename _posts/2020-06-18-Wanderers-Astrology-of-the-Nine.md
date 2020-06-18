@@ -9,7 +9,7 @@ image:
   width: 100
 categories: [music]
 tags:  [black metal, USA, greece, 2020]
-excerpt: 
+excerpt: A cosmic journey through the multitude of the planetary aspects.
 author: Athotep
 ---
 
