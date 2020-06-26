@@ -2,11 +2,11 @@
 layout: post
 real-post-title: Lord Vigo – Danse De Noir (High Roller Records, 2020)
 featured-image: /music/dansedenoir.jpg
-featured-image-alt: wanderers
+featured-image-alt: dansedenoir
 image:
   path: /assets/images/music/dansedenoir.jpg
-  height: 100
-  width: 100
+  height: 200
+  width: 200
 categories: [music]
 tags:  [epic metal, germany, 2020]
 excerpt: Leading with inspired song-writing and taking full advantage of the sci-fi themes, the band seems to have hit gold, sculpting a monumental release.
