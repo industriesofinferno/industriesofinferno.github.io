@@ -68,4 +68,4 @@ A folk-horror masterpiece, slightly hinting of Machen’s The White People, also
 [Goodreads Page](https://www.goodreads.com/book/show/10552013-dark-entries){:.text-blue-600 .hover:text-blue-400}  
 <br>
 
-Get the book [here](http://www.tartaruspress.com/valentine-herald-of-the-hidden.html){:.text-blue-600 .hover:text-blue-400} or [here](https://www.faber.co.uk/9780571311774-dark-entries.html){:.text-blue-600 .hover:text-blue-400}
+Get the book [here](http://www.tartaruspress.com/aickman-dark-entries.html){:.text-blue-600 .hover:text-blue-400} or [here](https://www.faber.co.uk/9780571311774-dark-entries.html){:.text-blue-600 .hover:text-blue-400}
