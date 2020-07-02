@@ -9,7 +9,7 @@ image:
   width: 200
 categories: [books]
 tags:  [horror, robert aickman]
-excerpt: 
+excerpt: Concerning Robert Aickman's writing and his first short story collection.
 author: Athotep
 ---
 
