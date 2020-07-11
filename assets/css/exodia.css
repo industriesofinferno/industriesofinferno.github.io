@@ -20223,19 +20223,16 @@ video {
 }
 
 .markdown ul {
-  font-size: 1rem;
   padding-left: 2rem;
   list-style-type: disc;
 }
 
 .markdown ol {
-  font-size: 1rem;
   padding-left: 2rem;
   list-style-type: decimal;
 }
 
 .markdown blockquote {
-  font-size: 1rem;
   border-left-width: 4px;
   --border-opacity: 1;
   border-color: #e2e8f0;
@@ -20248,7 +20245,6 @@ video {
 }
 
 .markdown table {
-  font-size: 1rem;
   --border-opacity: 1;
   border-color: #718096;
   border-color: rgba(113, 128, 150, var(--border-opacity));
