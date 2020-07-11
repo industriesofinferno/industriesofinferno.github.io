@@ -5,8 +5,8 @@ featured-image: /books/for1.jpg
 featured-image-alt: for
 image:
   path: /assets/images/books/for1.jpg
-  height: 100
-  width: 100
+  height: 200
+  width: 200
 categories: [books]
 tags:  [fantasy, tolkien]
 excerpt: Κάποια πράγματα, με αφορμή την πρόσφατη ανάγνωση της Συντροφιάς του Δαχτυλιδιού
@@ -126,4 +126,7 @@ author: Athotep
 *Μόνο μια φορά τα έχω ξαναδεί στον ξύπνιο μου, και τότε από μακριά, αλλά τα αναγνωρίζω και ξέρω τα ονόματά τους, γιατί κάτω από αυτά βρίσκεται το Κάζαντ-ντουμ, το Ντάροουντελφ, που τώρα λέγεται Μαύρη Μίνα, Μόρια στη γλώσσα των Ξωτικών. Κοντύτερα σε εμάς βρίσκεται το Μπαραζινμπαρ, το Κόκκινο Κέρατο, ο ανελέητος Καράντρας· και πέρα από αυτόν βρίσκονται η Ασημοκορφή και η Συννεφοκορφή: ο Κελέμπντιλ ο Λευκός και ο Φανούιντολ ο Γκρίζος, που εμείς ονομάζουμε Ζιράκζιγκίλ και Μπουντουσαθούρ.»*
 {: class="indentia"}  
 <br>
-<img class="w-full" src="{{ site.baseurl }}/assets/images/books/2twr2.gif">
+<img class="w-full" src="{{ site.baseurl }}/assets/images/books/2twr2.gif">  
+<br>
+
+Το δεύτερο μέρος [εδώ]({{ site.baseurl }}/books/2020/07/11/two-towers.html){:.text-blue-600 .hover:text-blue-400}.
