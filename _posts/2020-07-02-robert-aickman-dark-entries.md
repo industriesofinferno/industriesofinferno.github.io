@@ -14,7 +14,7 @@ author: Athotep
 ---
 
 I am very late to the Aickman show; indeed, it was only last year that I learned of him. After a hasty trek through [**Cold Hand in Mine**](https://www.goodreads.com/book/show/357727.Cold_Hand_in_Mine){:.text-blue-600 .hover:text-blue-400} it was only last month that I decided to properly start with his bibliography, opting for a chronological order. My impressions concerning the themes of his stories have been quite positive up to now – he seldom uses trite subjects, and when he does he tends to spin them on new directions (see for instance how he uses the dead in **Ringing the Changes**). As for the supernatural, it is subtle, though usually existent. Implicitness is heavy, as is a talent for unusual takes on the macabre.
-{: class="indentia"}
+{: class="firstletteris"}
 
 **Robert Aickman** has a very particular, easily recognizable style, that demands the reader’s focus. His writing is dense, though not archaic; it is elaborate, especially syntax-wise, creating **sentence-cysts** that occasionally require a second or third pass to be grasped.
 {: class="indentia"}

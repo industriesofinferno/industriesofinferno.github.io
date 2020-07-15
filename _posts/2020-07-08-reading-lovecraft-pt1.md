@@ -13,7 +13,8 @@ excerpt: Re-reading H.P. Lovecraft's works
 author: Athotep
 ---
 
-I started re-reading all of Lovecraft’s works, and will write some words on each as I progress. The edition I use is **Hippocampus Press**’s 3-tome [**H. P. Lovecraft's Collected Fiction: A Variorum Edition**](https://www.hippocampuspress.com/h.p-lovecraft/fiction/variorum-lovecraft){:.text-blue-600 .hover:text-blue-400}, which seems to be the current definite text (certainly being the most annotated). Each story gets a very short plot description (usually opting for spoiler-free), some comments, a rating (1 to 5) and a link to the public domain version of it.  
+I started re-reading all of Lovecraft’s works, and will write some words on each as I progress. The edition I use is **Hippocampus Press**’s 3-tome [**H. P. Lovecraft's Collected Fiction: A Variorum Edition**](https://www.hippocampuspress.com/h.p-lovecraft/fiction/variorum-lovecraft){:.text-blue-600 .hover:text-blue-400}, which seems to be the current definite text (certainly being the most annotated). Each story gets a very short plot description (usually opting for spoiler-free), some comments, a rating (1 to 5) and a link to the public domain version of it.
+{: class="firstletteris"}  
 <br>
 
 **The Beast in the Cave (1904)**
