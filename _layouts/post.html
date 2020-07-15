@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-
-  {% include navigationlight.html %}
+<head>
+  <script src="/assets/js/scrollprogress.js"></script>
+</head>
+  {% include navigationlightpost.html %}
+  
 <div class="bg-fixed max-w-none h-screen/2 lg:h-screen/15 pt-16 bg-cover bg-center" {% if page.featured-image %} style="background-image: url(/assets/images/{{ page.featured-image }})"{% endif %}>
 </div>
 
