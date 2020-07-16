@@ -58,4 +58,7 @@ Read [here](https://www.hplovecraft.com/writings/texts/fiction/d.aspx){:.text-bl
 *Samuel Jackson, a two century old man reminisces of some of his time spend in 18th century England.*
 A short piece written as a fragment from a past era, mimicking 18th century prose. Not specifically interesting, plot-wise, it gives an insight into the humorous side of young Lovecraft, as well as apparently satisfying his obsession with the past; Samuel Jackson is born 200 years before Lovecraft and one can imagine that he acts as the author’s avatar. Still, nothing seriously worth visiting. **1/5**
 
-Read [here](https://www.hplovecraft.com/writings/texts/fiction/rdsj.aspx){:.text-blue-600 .hover:text-blue-400}.
+Read [here](https://www.hplovecraft.com/writings/texts/fiction/rdsj.aspx){:.text-blue-600 .hover:text-blue-400}.  
+<br>
+
+Part 2 [here]({{ site.baseurl }}/books/2020/07/16/reading-lovecraft-pt2.html){:.text-blue-600 .hover:text-blue-400}. 
