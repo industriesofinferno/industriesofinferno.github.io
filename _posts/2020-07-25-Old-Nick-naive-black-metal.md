@@ -45,4 +45,6 @@ author: Athotep
 {: class="indentia"}  
 <br>
 
+**Aesthetical and spiritual relative:** [Nuit Noire - Lunar Deflagration](https://www.youtube.com/watch?v=tnRlIM9nLws){:.text-blue-600 .hover:text-blue-400}  
+<br>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=550458824/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://grimestone.bandcamp.com/album/old-nick-forest-of-grief">Old Nick - Forest of Grief by Old Nick</a></iframe>
