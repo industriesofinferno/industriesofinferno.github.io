@@ -13,7 +13,7 @@ excerpt: Re-reading H.P. Lovecraft's works
 author: Athotep
 ---
 
-Part 1 [here]({{ site.baseurl }}/books/2020/07/08/reading-lovecraft-pt1.html){:.text-blue-600 .hover:text-blue-400}, part 2 [here]({{ site.baseurl }}/books/2020/07/08/reading-lovecraft-pt1.html){:.text-blue-600 .hover:text-blue-400}.  
+Part 1 [here]({{ site.baseurl }}/books/2020/07/08/reading-lovecraft-pt1.html){:.text-blue-600 .hover:text-blue-400}, part 2 [here]({{ site.baseurl }}/books/2020/07/16/reading-lovecraft-pt2.html){:.text-blue-600 .hover:text-blue-400}.  
 <br>
 
 **The Street (1919)**
