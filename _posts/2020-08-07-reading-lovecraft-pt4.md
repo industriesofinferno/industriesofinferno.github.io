@@ -76,5 +76,5 @@ A short Dunsanian prose poem centered around the craving for non-existence. Unco
 Read [here](https://www.hplovecraft.com/writings/texts/fiction/eo.aspx){:.text-blue-600 .hover:text-blue-400}.  
 <br>
 
-Part 1 [here]({{ site.baseurl }}/books/2020/07/08/reading-lovecraft-pt1.html){:.text-blue-600 .hover:text-blue-400}, part 2 [here]({{ site.baseurl }}/books/2020/07/16/reading-lovecraft-pt2.html){:.text-blue-600 .hover:text-blue-400}, part 3 [here]({{ site.baseurl }}/books/2020/07/16/reading-lovecraft-pt3.html){:.text-blue-600 .hover:text-blue-400}.  
+Part 1 [here]({{ site.baseurl }}/books/2020/07/08/reading-lovecraft-pt1.html){:.text-blue-600 .hover:text-blue-400}, part 2 [here]({{ site.baseurl }}/books/2020/07/16/reading-lovecraft-pt2.html){:.text-blue-600 .hover:text-blue-400}, part 3 [here]({{ site.baseurl }}/books/2020/07/26/reading-lovecraft-pt3.html){:.text-blue-600 .hover:text-blue-400}.  
 <br>
