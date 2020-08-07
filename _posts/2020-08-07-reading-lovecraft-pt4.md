@@ -73,4 +73,8 @@ Read [here](https://www.hplovecraft.com/writings/texts/fiction/ph.aspx){:.text-b
 
 A short Dunsanian prose poem centered around the craving for non-existence. Uncommonly nihilistic for this particular category of Lovecraft’s works, it utterly failed to impress me. **1/5**
 
-Read [here](https://www.hplovecraft.com/writings/texts/fiction/eo.aspx){:.text-blue-600 .hover:text-blue-400}. 
+Read [here](https://www.hplovecraft.com/writings/texts/fiction/eo.aspx){:.text-blue-600 .hover:text-blue-400}.  
+<br>
+
+Part 1 [here]({{ site.baseurl }}/books/2020/07/08/reading-lovecraft-pt1.html){:.text-blue-600 .hover:text-blue-400}, part 2 [here]({{ site.baseurl }}/books/2020/07/16/reading-lovecraft-pt2.html){:.text-blue-600 .hover:text-blue-400}, part 3 [here]({{ site.baseurl }}/books/2020/07/16/reading-lovecraft-pt3.html){:.text-blue-600 .hover:text-blue-400}.  
+<br>
