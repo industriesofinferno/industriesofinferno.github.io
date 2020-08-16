@@ -13,7 +13,7 @@ excerpt: Κάποια πράγματα, με αφορμή την πρόσφατ�
 author: Athotep
 ---
 
-Το πρώτο μέρος [εδώ]({{ site.baseurl }}/books/2020/06/13/Fellowship-of-the-ring.html){:.text-blue-600 .hover:text-blue-400}.  
+*Το πρώτο μέρος [εδώ]({{ site.baseurl }}/books/2020/06/13/Fellowship-of-the-ring.html){:.text-blue-600 .hover:text-blue-400} και το τρίτο [εδώ]({{ site.baseurl }}/books/2020/08/15/return-of-the-king.html){:.text-blue-600 .hover:text-blue-400}.*  
 <br>
 
 **Πράγματα που είχα ξεχάσει:**  
@@ -134,3 +134,5 @@ author: Athotep
 ![Cheddar Gorge caves](/assets/images/books/twotowers/chcaves.jpg)
 *Οι σπηλιές του Cheddar Gorge, από όπου ο Τόλκιν εμπνεύστηκε τις Σπηλιές του Φαραγγιού του Χελμ*  
 <br>
+
+*Το πρώτο μέρος [εδώ]({{ site.baseurl }}/books/2020/06/13/Fellowship-of-the-ring.html){:.text-blue-600 .hover:text-blue-400} και το τρίτο [εδώ]({{ site.baseurl }}/books/2020/08/15/return-of-the-king.html){:.text-blue-600 .hover:text-blue-400}.*  
