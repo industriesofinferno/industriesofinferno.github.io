@@ -29,6 +29,7 @@ Read [here](https://www.hplovecraft.com/writings/texts/fiction/se.aspx){:.text-b
 First appearance of Abdul Alhazred and his renowned verse:
 
 “*That is not dead which can eternal lie,*
+
 *And with strange aeons even death may die.*”
 
 The story is a steady descent without much action, completely devoted to description and glimpses of a distant past; in that it resembles, in a much smaller scale, the Mountains of Madness. I found the story’s flow somewhat tedious in moments. **2/5**
