@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "browserify-postcss": "^0.4.0",
-    "postcss": "^7.0.27",
+    "postcss": "^7.0.36",
     "tailwind-percentage-heights-plugin": "^0.1.4",
     "tailwindcss": "^1.4.6",
     "watch": "^1.0.2"
