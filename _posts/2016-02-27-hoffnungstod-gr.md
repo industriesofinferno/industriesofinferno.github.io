@@ -13,8 +13,6 @@ excerpt: Ένα διήγημα που εκδόθηκε στη συλλογή δ�
 author: Athotep
 ---
 
-[English version]({{ site.baseurl }}/short-stories/2016/02/27/hoffnungstod-en.html){:.text-blue-600 .hover:text-blue-400}
-
 **1652, σε μια φυλακή στο Λονδίνο:**  
 <br>
 
