@@ -1,6 +1,6 @@
 ---
 layout: post
-real-post-title: Black Mass Rising - Theo Prasidis (writer) & Jodie Muir (2022)
+real-post-title: Black Mass Rising (2022) - Theo Prasidis (writer) & Jodie Muir (Art) 
 featured-image: /books/theocomicdombanner.jpg
 featured-image-alt: theocomicdombanner
 image:
