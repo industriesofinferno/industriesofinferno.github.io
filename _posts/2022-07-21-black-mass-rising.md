@@ -9,7 +9,7 @@ image:
   width: 200
 categories: [books]
 tags:  [horror, prasidis]
-excerpt: A grim and  addition to the Dracula corpus.
+excerpt: A grim, innovative, and utterly metal addition to the Dracula corpus.
 author: Athotep
 ---
 *"Her rage is the foray of a thousand chariots"*
