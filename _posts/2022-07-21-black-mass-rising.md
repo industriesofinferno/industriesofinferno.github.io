@@ -26,7 +26,7 @@ Beginning in the best possible way (with a traditional Romanian children’s gam
 ![Transilvania](/assets/images/books/night.jpg)  
 <br>
 
-Of special note are the two protagonistic female characters - they are teeming with strength, self-determination, and initiative – it is pure joy to follow them, even (or especially) in that grim and haunted land. They are what makes Theo's work an innovative work, since they infuse Dracula's literary corpse with an air of emancipation and female empowerment which doesn't feel forced, but rather, well-integrated in the setting.
+Of special note are the two protagonistic female characters - they are teeming with strength, self-determination, and initiative – it is pure joy to follow them, even (or especially) in that grim and haunted land. They are what makes Theo's creation an innovative work, since they infuse Dracula's literary corpse with an air of emancipation and female empowerment which doesn't feel forced, but rather, well-integrated in the setting.
 {: class="indentia"}  
 <br>
 
