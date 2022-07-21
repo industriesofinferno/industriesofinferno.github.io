@@ -4,7 +4,7 @@ real-post-title: Black Mass Rising - Theo Prasidis (writer) & Jodie Muir (2022)
 featured-image: /books/theocomicdombanner.jpg
 featured-image-alt: theocomicdombanner
 image:
-  path: /assets/images/books/theocomicdombanner
+  path: /assets/images/books/theocomicdombanner.jpg
   height: 200
   width: 200
 categories: [books]
