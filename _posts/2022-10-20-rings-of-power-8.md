@@ -7,7 +7,7 @@ image:
   path: /assets/images/tv/roptitle.jpg
   height: 200
   width: 200
-categories: [tv]
+categories: [movies]
 tags:  [fantasy, tolkien]
 excerpt: Σημειώσεις για το όγδοο επεισόδιο του Rings of Power
 author: Athotep
