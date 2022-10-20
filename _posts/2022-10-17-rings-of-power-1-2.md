@@ -8,7 +8,7 @@ image:
   height: 200
   width: 200
 categories: [movies]
-tags:  [fantasy, tolkien, Rings of Power]
+tags:  [fantasy, tolkien, ringsofpower]
 excerpt: Σημειώσεις για τα δύο πρώτα επεισόδια του Rings of Power
 author: Athotep
 ---
