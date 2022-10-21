@@ -8,7 +8,7 @@ image:
   height: 200
   width: 200
 categories: [movies]
-tags:  [fantasy, tolkien, ringsofpower]
+tags:  [fantasy, tolkien, rings of power]
 excerpt: Σημειώσεις για το πέμπτο επεισόδιο του Rings of Power
 author: Athotep
 ---

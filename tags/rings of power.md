@@ -1,4 +1,4 @@
 ---
 layout: tagpage
-tag: ringsofpower
+tag: rings of power
 ---
