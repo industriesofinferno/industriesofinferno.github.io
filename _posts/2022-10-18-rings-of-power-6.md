@@ -93,7 +93,7 @@ author: Athotep
 * Όλη η τελευταία σκηνή, από το άνοιγμα του φράγματος από τον Γουόλντρεγκ κι έπειτα, με τη βροχή μετεωριτών, τα νερά που έπεφταν στα έγκατα, την έκρηξη του ηφαιστείου, τη δημιουργία της Μόρντορ.  
 <br>
 
-[Link για το κεντρικό ποστ και index του αφιερώματος:]({{ site.baseurl }}movies/2022/10/22/rings-of-power-general.html){:.text-blue-600 .hover:text-blue-400}  
+[Link για το κεντρικό ποστ και index του αφιερώματος:]({{ site.baseurl }}/movies/2022/10/22/rings-of-power-general.html){:.text-blue-600 .hover:text-blue-400}  
 <br>
 
 ![oroboom](/assets/images/tv/oroboom.png)
