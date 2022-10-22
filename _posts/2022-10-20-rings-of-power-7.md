@@ -142,5 +142,8 @@ author: Athotep
 
 * Το τελείωμα με τη λέξη Μόρντορ να εμφανίζεται στην οθόνη μας σαν να πρόκειται για video game. Ναι, έχει δοθεί προηγούμενο με την εμφάνιση της ονομασίας κάθε περιοχής στην πρώτη επαφή μας μαζί της στα πρώτα επεισόδια, αλλά ο τρόπος με τον οποίο η λέξη Southlands αντικαταστήθηκε από τη Mordor ήταν αποτρόπαιος.  
 <br>
-![disadurin](/assets/images/tv/disadurin.jpg) 
+
+[Link για το κεντρικό ποστ και index του αφιερώματος:]({{ site.baseurl }}movies/2022/10/22/rings-of-power-general.html){:.text-blue-600 .hover:text-blue-400}  
 <br>
+
+![disadurin](/assets/images/tv/disadurin.jpg)
