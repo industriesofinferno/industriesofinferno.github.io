@@ -28,7 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-postcss
+  - jekyll-postcss-v2
   - jekyll-purgecss
   - jekyll-archives
 
@@ -39,3 +39,6 @@ description: Uncanny musings
 author: Athotep Nyarl
 
 relative_permalinks: false
+
+postcss:
+  cache: false

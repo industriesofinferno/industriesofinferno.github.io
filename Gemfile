@@ -8,7 +8,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-feed'
     gem 'jekyll-seo-tag'
-    gem "jekyll-postcss"
+    gem "jekyll-postcss-v2"
     gem "jekyll-purgecss"
     gem 'github-pages-unscramble'
     gem 'jekyll-archives'
