@@ -1,14 +1,4 @@
 module.exports = {
-	 content: [
-	'./_authors/**/*.html',
-	'./data/**/*.html',
-    './_drafts/**/*.html',
-    './_includes/**/*.html',
-    './_layouts/**/*.html',
-    './_posts/*.md',
-    './*.md',
-    './*.html',
-  ],
   purge: [],
   theme: {
     extend: {
