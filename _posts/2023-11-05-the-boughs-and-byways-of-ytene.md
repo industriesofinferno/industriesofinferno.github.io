@@ -30,19 +30,4 @@ author: Athotep
 *Δυστυχώς, όπως συμβείνει με την παραγωγή του συγκεκριμένου εκδοτικού, το βιβλίο είναι ιδιαίτερα ακριβό, έχει κυκλοφορήσει σε περιορισμένο αριθμό αντιτύπων και ο μόνος τρόπος παραγγελίας είναι η επικοινωνία με τον εκδότη, η οποία ενίοτε είναι περίεργη. Ευτυχώς, όπως με πληροφόρησε ο συγγραφέας, το βιβλίο αυτό (καθώς και τα άλλα τρία δικά του που έχουν βγει από τον Mount Abraxas) θα κυκλοφορήσει σε αυτοέκδοση με πιο προσιτή τιμή και διαθεσιμότητα, εντός του 2024.  
 <br>
 
-![Ytene](/assets/images/books/ytene1.jpg)  
-<br>
-
-![Ytene](/assets/images/books/ytene3.jpg)  
-<br>
-
-![Ytene](/assets/images/books/ytene4.jpg)  
-<br>
-
-![Ytene](/assets/images/books/ytene5.jpg)  
-<br>
-
-![Ytene](/assets/images/books/ytene6.jpg)  
-<br>
-
-![Ytene](/assets/images/books/ytene7.jpg)
+{% include image-gallery.html folder="/assets/images/books/ytene" %}
