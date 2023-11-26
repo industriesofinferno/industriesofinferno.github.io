@@ -8,7 +8,7 @@ image:
   height: 100
   width: 100
 categories: [books]
-tags:  [mythology]
+tags:  [animportantbook, mythology]
 excerpt: Ένα δίτομο μυθολογικό κομψοτέχνημα 
 author: Athotep
 ---
