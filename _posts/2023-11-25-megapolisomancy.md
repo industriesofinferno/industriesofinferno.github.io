@@ -8,7 +8,7 @@ image:
   height: 100
   width: 100
 categories: [books]
-tags:  [fiction, occult, 2023]
+tags:  [fiction, occult, 2002]
 excerpt: Ένα βιβλίο που επενδύει τη μεγαλούπολη με μυστήριο και μαγεία
 author: Athotep
 ---
