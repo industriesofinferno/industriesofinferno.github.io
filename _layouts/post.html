@@ -6,12 +6,12 @@ layout: default
 </head>
   {% include navigationlightpost.html %}
   
-<div class="bg-fixed max-w-none h-screen/2 lg:h-screen/15 pt-16 bg-cover bg-center" {% if page.featured-image %} style="background-image: url(/assets/images/{{ page.featured-image }})"{% endif %}>
+<div class="bg-fixed max-w-none h-screen/2 xl:h-screen/15 pt-16 bg-cover bg-center" {% if page.featured-image %} style="background-image: url(/assets/images/{{ page.featured-image }})"{% endif %}>
 </div>
 
 <div class="flex justify-center">
-  <div class="mt-4 p-6 w-full lg:w-2/4 bg-white text-black">
-    <div class=" text-4xl lg:text-2xl font-bold inline-block bg-black text-white px-1">
+  <div class="mt-4 p-6 w-full xl:w-2/4 bg-white text-black">
+    <div class=" text-4xl xl:text-2xl font-bold inline-block bg-black text-white px-1">
       {% if post %}
         {% assign categories = post.categories %}
       {% else %}
@@ -22,18 +22,18 @@ layout: default
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
-    <h1 class=" text-4xl lg:text-2xl text-center font-bold mb-4">{{ page.real-post-title }}</h1>
+    <h1 class=" text-4xl xl:text-2xl text-center font-bold mb-4">{{ page.real-post-title }}</h1>
     <!--<h2 class=" text-2xl text-center mb-2"> ({% include reading-time.html %})</h2>-->
   
     <div class="flex justify-center">
           <div class="border-solid border-black border-t h-1 w-2/5 mb-4 self-center"></div>
     </div>
  
-    <div class="text-4xl lg:text-base markdown">
+    <div class="text-4xl xl:text-base markdown">
         {{ content }}
     </div>
 
-    <div class="text-left lg:text-right mb-4 ">
+    <div class="text-left xl:text-right mb-4 ">
         
         <p class="py-1 text-right">{{ page.date | date_to_string }}</p><br>
 
@@ -41,26 +41,26 @@ layout: default
           {% assign tags = post.tags %}
         {% else %}
           {% assign tags = page.tags %}
-        {% endif %} <span class="font-bold uppercase text-3xl lg:text-base">Tags:</span>
+        {% endif %} <span class="font-bold uppercase text-3xl xl:text-base">Tags:</span>
         {% for tag in tags %}
-        <a class="p-1 border border-black border-solid italic hover:text-teal-600 hover:underline text-3xl lg:text-base" href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
+        <a class="p-1 border border-black border-solid italic hover:text-teal-600 hover:underline text-3xl xl:text-base" href="{{site.baseurl}}/tags/{{tag|slugize}}">{{tag}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}<br>
 
     </div>
 
-    <div class="pt-6 w-full bg-white text-black border-t-2 lg:border-t border-black border-solid">
+    <div class="pt-6 w-full bg-white text-black border-t-2 xl:border-t border-black border-solid">
       {% if page.previous.url %}
-        <a class="hover:text-blue-400 hover:underline text-3xl lg:text-base my-6" href="{{page.previous.url}}"><span class="font-bold uppercase">Previous:</span> {{page.previous.real-post-title}}</a><br>
+        <a class="hover:text-blue-400 hover:underline text-3xl xl:text-base my-6" href="{{page.previous.url}}"><span class="font-bold uppercase">Previous:</span> {{page.previous.real-post-title}}</a><br>
       {% endif %}
       {% if page.next.url %}
-        <a class="lg:float-right hover:text-blue-400 hover:underline text-3xl lg:text-base mb-6" href="{{page.next.url}}"><span class="font-bold uppercase">Next:</span> {{page.next.real-post-title}}</a>
+        <a class="xl:float-right hover:text-blue-400 hover:underline text-3xl xl:text-base mb-6" href="{{page.next.url}}"><span class="font-bold uppercase">Next:</span> {{page.next.real-post-title}}</a>
       {% endif %}
     </div>
 
-    <div class="border-t-2 lg:border-t border-black border-solid pt-0 lg:pt-6 flex items-end w-full">
-      <div class="w-full lg:w-1/3 py-6 lg:py-0">
-        <a class="flex justify-start lg:justify-end items-center text-black hover:text-blue-700" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank"><i class="ri-facebook-circle-fill text-4xl lg:text-2xl"></i><span class="text-4xl lg:text-xl"> Share on Facebook</span></a>
+    <div class="border-t-2 xl:border-t border-black border-solid pt-0 xl:pt-6 flex items-end w-full">
+      <div class="w-full xl:w-1/3 py-6 xl:py-0">
+        <a class="flex justify-start xl:justify-end items-center text-black hover:text-blue-700" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank"><i class="ri-facebook-circle-fill text-4xl xl:text-2xl"></i><span class="text-4xl xl:text-xl"> Share on Facebook</span></a>
       </div>
     </div>
    

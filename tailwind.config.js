@@ -2,10 +2,6 @@ module.exports = {
   purge: [],
     theme: {
     extend: {
-      screens: {
-        'lg': '1100px',
-        // => @media (min-width: 1100px) { ... }
-      },
       height: theme => ({
         "screen/15": "80vh",
         "screen/2": "50vh",
