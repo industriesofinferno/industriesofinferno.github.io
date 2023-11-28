@@ -9,7 +9,7 @@ image:
   width: 100
 categories: [books]
 tags:  [animportantbook, astronomy, 1986]
-excerpt: czxczxc
+excerpt: Με τα μάτια καρφωμένα στ' άστρα
 author: Athotep
 ---
 
