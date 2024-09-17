@@ -9,7 +9,7 @@ image:
   width: 200
 categories: [movies]
 tags:  [fantasy, tolkien, rings of power]
-excerpt: Σημειώσεις για το τέταρτο επεισόδιοτης δεύτερη σεζόν του Rings of Power
+excerpt: Σημειώσεις για το τέταρτο επεισόδιο της δεύτερη σεζόν του Rings of Power
 author: Athotep
 ---
 
