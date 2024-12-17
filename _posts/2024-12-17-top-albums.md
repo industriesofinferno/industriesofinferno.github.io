@@ -1,10 +1,10 @@
 ---
 layout: post
 real-post-title: 2024 – Top music releases 
-featured-image: /mistforest1.jpg
+featured-image: /music/Top202024.jpg
 featured-image-alt: mistforest1
 image:
-  path: /assets/images/mistforest1.jpg
+  path: /assets/images/music/Top202024.jpg
   height: 100
   width: 100
 categories: [music]
