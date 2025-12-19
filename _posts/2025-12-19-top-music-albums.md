@@ -1,10 +1,10 @@
 ---
 layout: post
-real-post-title: 2023 – Top music albums
-featured-image: /mistforest1.jpg
-featured-image-alt: mistforest1
+real-post-title: 2025 – Top music albums
+featured-image: /music/charthor.png
+featured-image-alt: charthor
 image:
-  path: /assets/images/mistforest1.jpg
+  path: /assets/music/charthor.png
   height: 100
   width: 100
 categories: [music]
