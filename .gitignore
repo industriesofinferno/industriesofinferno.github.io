@@ -1,4 +1,4 @@
 _site
 node_modules
 Gemfile.lock
-_includes/tailwind.js
+_includes/tailwind.js.jekyll-cache/
